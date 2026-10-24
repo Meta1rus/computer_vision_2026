@@ -1,0 +1,21 @@
+# окружение
+.venv*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# датасеты скачиваются ноутбуками
+data/
+labs/*/data/
+
+# тяжёлые веса и чекпоинты остаются локально
+labs/*/artifacts/**/*.pt
+labs/*/artifacts/**/*.pth
+labs/*/artifacts/**/*.ckpt
+labs/*/artifacts/**/*.safetensors
+labs/*/artifacts/**/*.bin
+labs/*/artifacts/**/*.npz
+labs/*/artifacts/**/*.npy
+labs/*/artifacts/**/checkpoint-*/
