@@ -1,0 +1,31 @@
+{
+  "transform": "torchvision adjust_brightness(factor=0.35)",
+  "model": "efficientnet_b0_full",
+  "n": 10000,
+  "clean_accuracy": 0.9435,
+  "shifted_accuracy": 0.8789,
+  "n_broken": 832,
+  "examples": [
+    {
+      "test_index": 26,
+      "true": "deer",
+      "clean_pred": "deer",
+      "dark_pred": "cat",
+      "dark_confidence": 0.9044
+    },
+    {
+      "test_index": 68,
+      "true": "cat",
+      "clean_pred": "cat",
+      "dark_pred": "deer",
+      "dark_confidence": 0.5487
+    },
+    {
+      "test_index": 69,
+      "true": "horse",
+      "clean_pred": "horse",
+      "dark_pred": "deer",
+      "dark_confidence": 0.9226
+    }
+  ]
+}

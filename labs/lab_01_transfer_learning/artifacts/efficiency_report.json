@@ -1,0 +1,44 @@
+{
+  "device": "mps",
+  "epochs": 8,
+  "n_train": 10000,
+  "img_size": 224,
+  "rows": {
+    "frozen": {
+      "train_time_s": 49.95668578147888,
+      "time_per_epoch_s": 6.24458572268486,
+      "val_accuracy": 0.8435,
+      "val_macro_f1": 0.8425354303164605,
+      "trainable_params": 5130,
+      "peak_mem_mb_sampled": 79.7578125,
+      "inference_img_per_s": 1936.4951434406014
+    },
+    "partial": {
+      "train_time_s": 71.76176905632019,
+      "time_per_epoch_s": 8.970221132040024,
+      "val_accuracy": 0.918,
+      "val_macro_f1": 0.9179222255460596,
+      "trainable_params": 8398858,
+      "peak_mem_mb_sampled": 176.57373046875,
+      "inference_img_per_s": 1935.6122998980766
+    },
+    "full": {
+      "train_time_s": 161.42019534111023,
+      "time_per_epoch_s": 20.17752441763878,
+      "val_accuracy": 0.937,
+      "val_macro_f1": 0.9368649527968966,
+      "trainable_params": 11181642,
+      "peak_mem_mb_sampled": 212.914794921875,
+      "inference_img_per_s": 1936.6509202295754
+    },
+    "efficientnet_b0_full": {
+      "train_time_s": 337.23745012283325,
+      "time_per_epoch_s": 42.15468126535416,
+      "val_accuracy": 0.945,
+      "val_macro_f1": 0.9449866812068419,
+      "trainable_params": 4020358,
+      "peak_mem_mb_sampled": 102.5595703125,
+      "inference_img_per_s": 1046.3820719643481
+    }
+  }
+}

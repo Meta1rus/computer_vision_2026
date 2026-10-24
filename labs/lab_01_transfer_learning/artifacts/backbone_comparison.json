@@ -1,0 +1,26 @@
+{
+  "selection_split": "validation",
+  "selected": "efficientnet_b0",
+  "models": {
+    "resnet18": {
+      "mode": "full",
+      "val_accuracy": 0.937,
+      "val_macro_f1": 0.9368649527968966,
+      "train_time_s": 161.42019534111023,
+      "peak_mem_mb": 212.914794921875,
+      "params_total": 11181642,
+      "params_trainable": 11181642,
+      "inference_img_per_s": 1944.5975616779428
+    },
+    "efficientnet_b0": {
+      "mode": "full",
+      "val_accuracy": 0.945,
+      "val_macro_f1": 0.9449866812068419,
+      "train_time_s": 337.23745012283325,
+      "peak_mem_mb": 102.5595703125,
+      "params_total": 4020358,
+      "params_trainable": 4020358,
+      "inference_img_per_s": 1046.3820719643481
+    }
+  }
+}

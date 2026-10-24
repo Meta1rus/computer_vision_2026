@@ -1,0 +1,18 @@
+{
+  "model": "efficientnet_b0_full",
+  "recall": {
+    "airplane": 0.95,
+    "automobile": 0.969,
+    "bird": 0.934,
+    "cat": 0.859,
+    "deer": 0.932,
+    "dog": 0.923,
+    "frog": 0.97,
+    "horse": 0.961,
+    "ship": 0.976,
+    "truck": 0.961
+  },
+  "worst_class": "cat",
+  "worst_recall": 0.859,
+  "most_confused_with": "dog"
+}

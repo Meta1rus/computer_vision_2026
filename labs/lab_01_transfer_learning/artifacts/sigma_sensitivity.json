@@ -1,0 +1,30 @@
+{
+  "model": "efficientnet_b0_full",
+  "n": 10000,
+  "profile": [
+    {
+      "sigma": 0.0,
+      "accuracy": 0.9435
+    },
+    {
+      "sigma": 0.02,
+      "accuracy": 0.9032
+    },
+    {
+      "sigma": 0.05,
+      "accuracy": 0.6878
+    },
+    {
+      "sigma": 0.1,
+      "accuracy": 0.3041
+    },
+    {
+      "sigma": 0.2,
+      "accuracy": 0.1731
+    },
+    {
+      "sigma": 0.3,
+      "accuracy": 0.1253
+    }
+  ]
+}

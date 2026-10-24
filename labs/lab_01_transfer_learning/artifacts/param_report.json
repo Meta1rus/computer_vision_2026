@@ -1,0 +1,17 @@
+{
+  "frozen": {
+    "trainable": 5130,
+    "total": 11181642,
+    "fraction": 0.00045878771650889914
+  },
+  "partial": {
+    "trainable": 8398858,
+    "total": 11181642,
+    "fraction": 0.7511292169790448
+  },
+  "full": {
+    "trainable": 11181642,
+    "total": 11181642,
+    "fraction": 1.0
+  }
+}

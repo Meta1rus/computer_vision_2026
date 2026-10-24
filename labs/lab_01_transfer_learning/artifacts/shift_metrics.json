@@ -1,0 +1,8 @@
+{
+  "model": "efficientnet_b0_full",
+  "noise": "gaussian, pixel space [0,1], clamp",
+  "sigma": 0.1,
+  "n": 10000,
+  "clean_accuracy": 0.9435,
+  "noisy_accuracy": 0.3041
+}
