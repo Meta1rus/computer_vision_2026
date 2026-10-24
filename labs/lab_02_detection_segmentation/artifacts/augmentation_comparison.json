@@ -1,0 +1,17 @@
+{
+  "budget": {
+    "epochs": 12,
+    "batch": 16,
+    "lr": 0.0005,
+    "train_images": 2944
+  },
+  "baseline": {
+    "val_mIoU": 0.7986308768406024,
+    "train_time_s": 264.32297801971436
+  },
+  "hflip": {
+    "val_mIoU": 0.8020649184046998,
+    "train_time_s": 270.9812865257263
+  },
+  "delta_mIoU": 0.0034340415640974342
+}

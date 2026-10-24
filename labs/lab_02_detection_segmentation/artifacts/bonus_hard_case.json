@@ -1,0 +1,9 @@
+{
+  "dataset_index": 2248,
+  "val_position": 576,
+  "breed": "Boxer",
+  "pet_iou": 0.2852639853954315,
+  "mIoU": 0.46022042945735137,
+  "fp_pixels": 6961,
+  "fn_pixels": 2109
+}

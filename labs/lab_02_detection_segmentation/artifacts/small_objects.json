@@ -1,0 +1,10 @@
+{
+  "definition": "доля пикселей животного < 20%-квантиля train",
+  "threshold": 0.15822070837020874,
+  "n_small_val": 150,
+  "n_val": 736,
+  "baseline_fg_iou_small": 0.8005295991897583,
+  "hflip_fg_iou_small": 0.8056278228759766,
+  "baseline_fg_iou_all": 0.8865069150924683,
+  "hflip_fg_iou_all": 0.8890488743782043
+}

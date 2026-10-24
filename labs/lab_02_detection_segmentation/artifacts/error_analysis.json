@@ -1,0 +1,208 @@
+{
+ "model": "baseline",
+ "n_val": 736,
+ "mean_pet_iou": 0.8684012815761177,
+ "share_fp_dominant_in_worst20": 0.75,
+ "hardest": [
+  {
+   "val_position": 576,
+   "dataset_index": 2248,
+   "breed": "Boxer",
+   "pet_iou": 0.2852639853954315,
+   "mIoU": 0.46022042945735137,
+   "fp_pixels": 6961,
+   "fn_pixels": 2109,
+   "pet_area": 0.05594726651906967
+  },
+  {
+   "val_position": 715,
+   "dataset_index": 441,
+   "breed": "Boxer",
+   "pet_iou": 0.4450764060020447,
+   "mIoU": 0.5623246969985806,
+   "fp_pixels": 7861,
+   "fn_pixels": 3359,
+   "pet_area": 0.12068359553813934
+  },
+  {
+   "val_position": 360,
+   "dataset_index": 589,
+   "breed": "Egyptian Mau",
+   "pet_iou": 0.4635998010635376,
+   "mIoU": 0.5915779890773668,
+   "fp_pixels": 10154,
+   "fn_pixels": 515,
+   "pet_area": 0.09507812559604645
+  },
+  {
+   "val_position": 35,
+   "dataset_index": 3578,
+   "breed": "Staffordshire Bull Terrier",
+   "pet_iou": 0.5065861940383911,
+   "mIoU": 0.6768481750751377,
+   "fp_pixels": 680,
+   "fn_pixels": 219,
+   "pet_area": 0.011152343824505806
+  },
+  {
+   "val_position": 623,
+   "dataset_index": 2354,
+   "breed": "Chihuahua",
+   "pet_iou": 0.5165353417396545,
+   "mIoU": 0.576540780360609,
+   "fp_pixels": 15764,
+   "fn_pixels": 1048,
+   "pet_area": 0.18564453721046448
+  },
+  {
+   "val_position": 595,
+   "dataset_index": 2247,
+   "breed": "Boxer",
+   "pet_iou": 0.5281942486763,
+   "mIoU": 0.5528362486422896,
+   "fp_pixels": 14649,
+   "fn_pixels": 1148,
+   "pet_area": 0.18391601741313934
+  },
+  {
+   "val_position": 18,
+   "dataset_index": 1,
+   "breed": "Abyssinian",
+   "pet_iou": 0.5490115880966187,
+   "mIoU": 0.6460474545776874,
+   "fp_pixels": 8443,
+   "fn_pixels": 409,
+   "pet_area": 0.10922851413488388
+  },
+  {
+   "val_position": 145,
+   "dataset_index": 3304,
+   "breed": "Samoyed",
+   "pet_iou": 0.5767110586166382,
+   "mIoU": 0.5285597543509738,
+   "fp_pixels": 16090,
+   "fn_pixels": 1035,
+   "pet_area": 0.23795898258686066
+  },
+  {
+   "val_position": 448,
+   "dataset_index": 1568,
+   "breed": "Shiba Inu",
+   "pet_iou": 0.5846086740493774,
+   "mIoU": 0.7121330932318547,
+   "fp_pixels": 465,
+   "fn_pixels": 485,
+   "pet_area": 0.017792968079447746
+  },
+  {
+   "val_position": 611,
+   "dataset_index": 1255,
+   "breed": "Pug",
+   "pet_iou": 0.5866073369979858,
+   "mIoU": 0.5873638981198168,
+   "fp_pixels": 10612,
+   "fn_pixels": 1099,
+   "pet_area": 0.17301757633686066
+  },
+  {
+   "val_position": 346,
+   "dataset_index": 423,
+   "breed": "Boxer",
+   "pet_iou": 0.5871365666389465,
+   "mIoU": 0.5981779301702994,
+   "fp_pixels": 1976,
+   "fn_pixels": 367,
+   "pet_area": 0.03612304851412773
+  },
+  {
+   "val_position": 418,
+   "dataset_index": 246,
+   "breed": "Beagle",
+   "pet_iou": 0.5874449610710144,
+   "mIoU": 0.6436829616234644,
+   "fp_pixels": 559,
+   "fn_pixels": 1222,
+   "pet_area": 0.03669922053813934
+  },
+  {
+   "val_position": 218,
+   "dataset_index": 2927,
+   "breed": "Miniature Pinscher",
+   "pet_iou": 0.5993310213088989,
+   "mIoU": 0.6252050676435018,
+   "fp_pixels": 6934,
+   "fn_pixels": 1571,
+   "pet_area": 0.13958007097244263
+  },
+  {
+   "val_position": 547,
+   "dataset_index": 2050,
+   "breed": "Beagle",
+   "pet_iou": 0.6019997000694275,
+   "mIoU": 0.6490233845726429,
+   "fp_pixels": 194,
+   "fn_pixels": 2274,
+   "pet_area": 0.058662109076976776
+  },
+  {
+   "val_position": 56,
+   "dataset_index": 3505,
+   "breed": "Sphynx",
+   "pet_iou": 0.6109824180603027,
+   "mIoU": 0.681754213575485,
+   "fp_pixels": 11852,
+   "fn_pixels": 1077,
+   "pet_area": 0.20881836116313934
+  },
+  {
+   "val_position": 643,
+   "dataset_index": 2283,
+   "breed": "Boxer",
+   "pet_iou": 0.623609185218811,
+   "mIoU": 0.6446820548453848,
+   "fp_pixels": 800,
+   "fn_pixels": 1365,
+   "pet_area": 0.048359375447034836
+  },
+  {
+   "val_position": 488,
+   "dataset_index": 742,
+   "breed": "German Shorthaired",
+   "pet_iou": 0.6416322588920593,
+   "mIoU": 0.6390524779396735,
+   "fp_pixels": 1454,
+   "fn_pixels": 803,
+   "pet_area": 0.04730468615889549
+  },
+  {
+   "val_position": 102,
+   "dataset_index": 430,
+   "breed": "Boxer",
+   "pet_iou": 0.6439560651779175,
+   "mIoU": 0.6768044557001328,
+   "fp_pixels": 1204,
+   "fn_pixels": 1226,
+   "pet_area": 0.05489257723093033
+  },
+  {
+   "val_position": 590,
+   "dataset_index": 2933,
+   "breed": "Miniature Pinscher",
+   "pet_iou": 0.6511534452438354,
+   "mIoU": 0.7322370016416887,
+   "fp_pixels": 3748,
+   "fn_pixels": 1469,
+   "pet_area": 0.10944335907697678
+  },
+  {
+   "val_position": 450,
+   "dataset_index": 1867,
+   "breed": "Abyssinian",
+   "pet_iou": 0.6547384858131409,
+   "mIoU": 0.6915377296358595,
+   "fp_pixels": 7341,
+   "fn_pixels": 5829,
+   "pet_area": 0.30082032084465027
+  }
+ ]
+}
