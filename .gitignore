@@ -19,3 +19,6 @@ labs/*/artifacts/**/*.bin
 labs/*/artifacts/**/*.npz
 labs/*/artifacts/**/*.npy
 labs/*/artifacts/**/checkpoint-*/
+
+# эмбеддинги DINOv2 — обязательный артефакт работы 4 (3,5 МБ)
+!labs/lab_04_self_supervised/artifacts/embeddings.npz
