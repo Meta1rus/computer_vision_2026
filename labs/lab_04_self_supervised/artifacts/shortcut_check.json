@@ -1,0 +1,11 @@
+{
+  "bg_color_distance_same_class_neighbors": 0.28452486396136145,
+  "bg_color_distance_other_class_neighbors": 0.2816486226080322,
+  "bg_color_distance_random_pairs": 0.3687037790295468,
+  "n_other_class_neighbors": 418,
+  "neighbors_of_bluish_background_queries": {
+    "airplane->ship": 2,
+    "ship->airplane": 3,
+    "bird->airplane": 1
+  }
+}

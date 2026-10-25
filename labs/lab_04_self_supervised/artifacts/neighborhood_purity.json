@@ -1,0 +1,200 @@
+{
+ "k": 5,
+ "n_queries": 1000,
+ "mean_purity": 0.9164,
+ "per_class": {
+  "airplane": 0.9,
+  "automobile": 0.9380000000000002,
+  "bird": 0.882,
+  "cat": 0.818,
+  "deer": 0.944,
+  "dog": 0.8500000000000001,
+  "frog": 0.9520000000000001,
+  "horse": 0.968,
+  "ship": 0.9580000000000001,
+  "truck": 0.9540000000000001
+ },
+ "zero_purity_share": 0.016,
+ "lowest": [
+  {
+   "test_index": 237,
+   "label": "airplane",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "truck",
+    "deer",
+    "truck",
+    "dog",
+    "truck"
+   ]
+  },
+  {
+   "test_index": 862,
+   "label": "cat",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "deer",
+    "deer",
+    "deer",
+    "frog",
+    "deer"
+   ]
+  },
+  {
+   "test_index": 2643,
+   "label": "cat",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "automobile",
+    "truck",
+    "automobile",
+    "automobile",
+    "automobile"
+   ]
+  },
+  {
+   "test_index": 2997,
+   "label": "bird",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "cat",
+    "cat",
+    "dog",
+    "cat",
+    "cat"
+   ]
+  },
+  {
+   "test_index": 3716,
+   "label": "cat",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "frog",
+    "frog",
+    "frog",
+    "frog",
+    "frog"
+   ]
+  },
+  {
+   "test_index": 3787,
+   "label": "cat",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "deer",
+    "deer",
+    "deer",
+    "deer",
+    "deer"
+   ]
+  },
+  {
+   "test_index": 4555,
+   "label": "dog",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "cat",
+    "cat",
+    "cat",
+    "cat",
+    "cat"
+   ]
+  },
+  {
+   "test_index": 4661,
+   "label": "deer",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "cat",
+    "cat",
+    "cat",
+    "cat",
+    "dog"
+   ]
+  },
+  {
+   "test_index": 4921,
+   "label": "dog",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "cat",
+    "airplane",
+    "frog",
+    "frog",
+    "frog"
+   ]
+  },
+  {
+   "test_index": 5213,
+   "label": "cat",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "deer",
+    "frog",
+    "bird",
+    "deer",
+    "deer"
+   ]
+  },
+  {
+   "test_index": 5279,
+   "label": "airplane",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "truck",
+    "truck",
+    "truck",
+    "truck",
+    "truck"
+   ]
+  },
+  {
+   "test_index": 5659,
+   "label": "bird",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "frog",
+    "frog",
+    "frog",
+    "frog",
+    "frog"
+   ]
+  },
+  {
+   "test_index": 7784,
+   "label": "horse",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "deer",
+    "frog",
+    "deer",
+    "frog",
+    "frog"
+   ]
+  },
+  {
+   "test_index": 8023,
+   "label": "cat",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "truck",
+    "ship",
+    "automobile",
+    "dog",
+    "deer"
+   ]
+  },
+  {
+   "test_index": 8982,
+   "label": "bird",
+   "purity": 0.0,
+   "neighbor_labels": [
+    "dog",
+    "truck",
+    "cat",
+    "truck",
+    "ship"
+   ]
+  }
+ ]
+}

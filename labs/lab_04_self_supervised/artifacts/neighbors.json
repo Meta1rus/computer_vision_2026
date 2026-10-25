@@ -1,0 +1,626 @@
+{
+ "model": "facebook/dinov2-small",
+ "k": 5,
+ "queries": [
+  {
+   "test_index": 693,
+   "label": "horse",
+   "neighbors": [
+    {
+     "train_index": 30617,
+     "label": "horse",
+     "cosine_distance": 0.24167555570602417
+    },
+    {
+     "train_index": 21108,
+     "label": "horse",
+     "cosine_distance": 0.26191550493240356
+    },
+    {
+     "train_index": 4793,
+     "label": "horse",
+     "cosine_distance": 0.2636295557022095
+    },
+    {
+     "train_index": 28965,
+     "label": "horse",
+     "cosine_distance": 0.2799171805381775
+    },
+    {
+     "train_index": 30972,
+     "label": "horse",
+     "cosine_distance": 0.28275614976882935
+    }
+   ]
+  },
+  {
+   "test_index": 1309,
+   "label": "frog",
+   "neighbors": [
+    {
+     "train_index": 38227,
+     "label": "frog",
+     "cosine_distance": 0.5593865513801575
+    },
+    {
+     "train_index": 28993,
+     "label": "frog",
+     "cosine_distance": 0.5844087600708008
+    },
+    {
+     "train_index": 29108,
+     "label": "frog",
+     "cosine_distance": 0.5899847745895386
+    },
+    {
+     "train_index": 34643,
+     "label": "frog",
+     "cosine_distance": 0.6027491688728333
+    },
+    {
+     "train_index": 2607,
+     "label": "frog",
+     "cosine_distance": 0.6088559627532959
+    }
+   ]
+  },
+  {
+   "test_index": 2812,
+   "label": "airplane",
+   "neighbors": [
+    {
+     "train_index": 45166,
+     "label": "airplane",
+     "cosine_distance": 0.32829177379608154
+    },
+    {
+     "train_index": 872,
+     "label": "airplane",
+     "cosine_distance": 0.32996946573257446
+    },
+    {
+     "train_index": 35855,
+     "label": "airplane",
+     "cosine_distance": 0.3354141116142273
+    },
+    {
+     "train_index": 28178,
+     "label": "airplane",
+     "cosine_distance": 0.3670048713684082
+    },
+    {
+     "train_index": 38618,
+     "label": "airplane",
+     "cosine_distance": 0.37980055809020996
+    }
+   ]
+  },
+  {
+   "test_index": 3148,
+   "label": "airplane",
+   "neighbors": [
+    {
+     "train_index": 18713,
+     "label": "airplane",
+     "cosine_distance": 0.29240918159484863
+    },
+    {
+     "train_index": 10955,
+     "label": "airplane",
+     "cosine_distance": 0.31459903717041016
+    },
+    {
+     "train_index": 11732,
+     "label": "airplane",
+     "cosine_distance": 0.34702324867248535
+    },
+    {
+     "train_index": 38618,
+     "label": "airplane",
+     "cosine_distance": 0.36880624294281006
+    },
+    {
+     "train_index": 3971,
+     "label": "airplane",
+     "cosine_distance": 0.38037312030792236
+    }
+   ]
+  },
+  {
+   "test_index": 4076,
+   "label": "horse",
+   "neighbors": [
+    {
+     "train_index": 15543,
+     "label": "horse",
+     "cosine_distance": 0.25922220945358276
+    },
+    {
+     "train_index": 43256,
+     "label": "horse",
+     "cosine_distance": 0.26670002937316895
+    },
+    {
+     "train_index": 7385,
+     "label": "horse",
+     "cosine_distance": 0.269542396068573
+    },
+    {
+     "train_index": 23296,
+     "label": "horse",
+     "cosine_distance": 0.27808672189712524
+    },
+    {
+     "train_index": 26067,
+     "label": "horse",
+     "cosine_distance": 0.3070252537727356
+    }
+   ]
+  },
+  {
+   "test_index": 5012,
+   "label": "frog",
+   "neighbors": [
+    {
+     "train_index": 40782,
+     "label": "frog",
+     "cosine_distance": 0.3017975687980652
+    },
+    {
+     "train_index": 13484,
+     "label": "frog",
+     "cosine_distance": 0.37231945991516113
+    },
+    {
+     "train_index": 30666,
+     "label": "frog",
+     "cosine_distance": 0.3878200054168701
+    },
+    {
+     "train_index": 10579,
+     "label": "frog",
+     "cosine_distance": 0.3888024687767029
+    },
+    {
+     "train_index": 31564,
+     "label": "frog",
+     "cosine_distance": 0.3934972286224365
+    }
+   ]
+  },
+  {
+   "test_index": 5135,
+   "label": "automobile",
+   "neighbors": [
+    {
+     "train_index": 8191,
+     "label": "automobile",
+     "cosine_distance": 0.3919285535812378
+    },
+    {
+     "train_index": 47633,
+     "label": "automobile",
+     "cosine_distance": 0.39456039667129517
+    },
+    {
+     "train_index": 31245,
+     "label": "automobile",
+     "cosine_distance": 0.3997662663459778
+    },
+    {
+     "train_index": 27745,
+     "label": "automobile",
+     "cosine_distance": 0.4186515212059021
+    },
+    {
+     "train_index": 49489,
+     "label": "automobile",
+     "cosine_distance": 0.4212419390678406
+    }
+   ]
+  },
+  {
+   "test_index": 6204,
+   "label": "deer",
+   "neighbors": [
+    {
+     "train_index": 39284,
+     "label": "deer",
+     "cosine_distance": 0.37063562870025635
+    },
+    {
+     "train_index": 25779,
+     "label": "deer",
+     "cosine_distance": 0.38623666763305664
+    },
+    {
+     "train_index": 32487,
+     "label": "horse",
+     "cosine_distance": 0.3978573679924011
+    },
+    {
+     "train_index": 9771,
+     "label": "deer",
+     "cosine_distance": 0.41486889123916626
+    },
+    {
+     "train_index": 22744,
+     "label": "deer",
+     "cosine_distance": 0.42982012033462524
+    }
+   ]
+  },
+  {
+   "test_index": 6283,
+   "label": "cat",
+   "neighbors": [
+    {
+     "train_index": 27485,
+     "label": "cat",
+     "cosine_distance": 0.4372406005859375
+    },
+    {
+     "train_index": 30356,
+     "label": "dog",
+     "cosine_distance": 0.4571508765220642
+    },
+    {
+     "train_index": 13257,
+     "label": "dog",
+     "cosine_distance": 0.45859813690185547
+    },
+    {
+     "train_index": 21122,
+     "label": "cat",
+     "cosine_distance": 0.4731826186180115
+    },
+    {
+     "train_index": 35204,
+     "label": "cat",
+     "cosine_distance": 0.47632676362991333
+    }
+   ]
+  },
+  {
+   "test_index": 6562,
+   "label": "dog",
+   "neighbors": [
+    {
+     "train_index": 28758,
+     "label": "dog",
+     "cosine_distance": 0.39757174253463745
+    },
+    {
+     "train_index": 4581,
+     "label": "cat",
+     "cosine_distance": 0.5326918363571167
+    },
+    {
+     "train_index": 26605,
+     "label": "bird",
+     "cosine_distance": 0.5604959726333618
+    },
+    {
+     "train_index": 35234,
+     "label": "dog",
+     "cosine_distance": 0.5784057974815369
+    },
+    {
+     "train_index": 33158,
+     "label": "ship",
+     "cosine_distance": 0.5892429351806641
+    }
+   ]
+  },
+  {
+   "test_index": 6760,
+   "label": "dog",
+   "neighbors": [
+    {
+     "train_index": 3498,
+     "label": "dog",
+     "cosine_distance": 0.32844531536102295
+    },
+    {
+     "train_index": 6698,
+     "label": "dog",
+     "cosine_distance": 0.3608584403991699
+    },
+    {
+     "train_index": 26349,
+     "label": "dog",
+     "cosine_distance": 0.3749740719795227
+    },
+    {
+     "train_index": 19889,
+     "label": "dog",
+     "cosine_distance": 0.3770328164100647
+    },
+    {
+     "train_index": 39525,
+     "label": "dog",
+     "cosine_distance": 0.39728182554244995
+    }
+   ]
+  },
+  {
+   "test_index": 7356,
+   "label": "airplane",
+   "neighbors": [
+    {
+     "train_index": 29803,
+     "label": "airplane",
+     "cosine_distance": 0.22075718641281128
+    },
+    {
+     "train_index": 46981,
+     "label": "airplane",
+     "cosine_distance": 0.2891142964363098
+    },
+    {
+     "train_index": 42644,
+     "label": "airplane",
+     "cosine_distance": 0.3082374930381775
+    },
+    {
+     "train_index": 24919,
+     "label": "bird",
+     "cosine_distance": 0.31525933742523193
+    },
+    {
+     "train_index": 4645,
+     "label": "airplane",
+     "cosine_distance": 0.32525986433029175
+    }
+   ]
+  },
+  {
+   "test_index": 7383,
+   "label": "deer",
+   "neighbors": [
+    {
+     "train_index": 6311,
+     "label": "deer",
+     "cosine_distance": 0.3163124918937683
+    },
+    {
+     "train_index": 29922,
+     "label": "deer",
+     "cosine_distance": 0.326257586479187
+    },
+    {
+     "train_index": 19657,
+     "label": "deer",
+     "cosine_distance": 0.3361856937408447
+    },
+    {
+     "train_index": 31699,
+     "label": "deer",
+     "cosine_distance": 0.3446749448776245
+    },
+    {
+     "train_index": 7690,
+     "label": "deer",
+     "cosine_distance": 0.3481258153915405
+    }
+   ]
+  },
+  {
+   "test_index": 7576,
+   "label": "ship",
+   "neighbors": [
+    {
+     "train_index": 17890,
+     "label": "ship",
+     "cosine_distance": 0.2313358187675476
+    },
+    {
+     "train_index": 28153,
+     "label": "ship",
+     "cosine_distance": 0.30472177267074585
+    },
+    {
+     "train_index": 34096,
+     "label": "ship",
+     "cosine_distance": 0.3102366328239441
+    },
+    {
+     "train_index": 31423,
+     "label": "ship",
+     "cosine_distance": 0.32124048471450806
+    },
+    {
+     "train_index": 44759,
+     "label": "ship",
+     "cosine_distance": 0.3217417597770691
+    }
+   ]
+  },
+  {
+   "test_index": 8077,
+   "label": "cat",
+   "neighbors": [
+    {
+     "train_index": 1735,
+     "label": "cat",
+     "cosine_distance": 0.38462013006210327
+    },
+    {
+     "train_index": 16907,
+     "label": "cat",
+     "cosine_distance": 0.4286981225013733
+    },
+    {
+     "train_index": 3108,
+     "label": "cat",
+     "cosine_distance": 0.43697887659072876
+    },
+    {
+     "train_index": 28214,
+     "label": "cat",
+     "cosine_distance": 0.46739906072616577
+    },
+    {
+     "train_index": 41998,
+     "label": "cat",
+     "cosine_distance": 0.46867185831069946
+    }
+   ]
+  },
+  {
+   "test_index": 8620,
+   "label": "cat",
+   "neighbors": [
+    {
+     "train_index": 21122,
+     "label": "cat",
+     "cosine_distance": 0.482404887676239
+    },
+    {
+     "train_index": 1966,
+     "label": "cat",
+     "cosine_distance": 0.5453459024429321
+    },
+    {
+     "train_index": 35204,
+     "label": "cat",
+     "cosine_distance": 0.5475464463233948
+    },
+    {
+     "train_index": 46371,
+     "label": "cat",
+     "cosine_distance": 0.5507323741912842
+    },
+    {
+     "train_index": 34492,
+     "label": "cat",
+     "cosine_distance": 0.5534433126449585
+    }
+   ]
+  },
+  {
+   "test_index": 8947,
+   "label": "deer",
+   "neighbors": [
+    {
+     "train_index": 3970,
+     "label": "deer",
+     "cosine_distance": 0.27776098251342773
+    },
+    {
+     "train_index": 27334,
+     "label": "deer",
+     "cosine_distance": 0.2837902903556824
+    },
+    {
+     "train_index": 6339,
+     "label": "deer",
+     "cosine_distance": 0.29680782556533813
+    },
+    {
+     "train_index": 8997,
+     "label": "deer",
+     "cosine_distance": 0.30469393730163574
+    },
+    {
+     "train_index": 40943,
+     "label": "deer",
+     "cosine_distance": 0.3141232132911682
+    }
+   ]
+  },
+  {
+   "test_index": 9058,
+   "label": "dog",
+   "neighbors": [
+    {
+     "train_index": 25775,
+     "label": "dog",
+     "cosine_distance": 0.4441578984260559
+    },
+    {
+     "train_index": 3498,
+     "label": "dog",
+     "cosine_distance": 0.48992735147476196
+    },
+    {
+     "train_index": 27869,
+     "label": "dog",
+     "cosine_distance": 0.5068438053131104
+    },
+    {
+     "train_index": 45282,
+     "label": "cat",
+     "cosine_distance": 0.5214262008666992
+    },
+    {
+     "train_index": 31031,
+     "label": "dog",
+     "cosine_distance": 0.5275436043739319
+    }
+   ]
+  },
+  {
+   "test_index": 9467,
+   "label": "bird",
+   "neighbors": [
+    {
+     "train_index": 32028,
+     "label": "bird",
+     "cosine_distance": 0.37133359909057617
+    },
+    {
+     "train_index": 4888,
+     "label": "bird",
+     "cosine_distance": 0.4357290267944336
+    },
+    {
+     "train_index": 33234,
+     "label": "bird",
+     "cosine_distance": 0.46529579162597656
+    },
+    {
+     "train_index": 11106,
+     "label": "bird",
+     "cosine_distance": 0.465596079826355
+    },
+    {
+     "train_index": 41947,
+     "label": "bird",
+     "cosine_distance": 0.4687833786010742
+    }
+   ]
+  },
+  {
+   "test_index": 9787,
+   "label": "ship",
+   "neighbors": [
+    {
+     "train_index": 19948,
+     "label": "ship",
+     "cosine_distance": 0.42464715242385864
+    },
+    {
+     "train_index": 48393,
+     "label": "ship",
+     "cosine_distance": 0.5295368432998657
+    },
+    {
+     "train_index": 38716,
+     "label": "airplane",
+     "cosine_distance": 0.5884248614311218
+    },
+    {
+     "train_index": 37628,
+     "label": "airplane",
+     "cosine_distance": 0.5963189601898193
+    },
+    {
+     "train_index": 33158,
+     "label": "ship",
+     "cosine_distance": 0.5988200902938843
+    }
+   ]
+  }
+ ]
+}
