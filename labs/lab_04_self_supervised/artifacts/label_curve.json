@@ -1,0 +1,43 @@
+{
+  "probe": "logreg C=10.0",
+  "curve": [
+    {
+      "fraction": 0.01,
+      "n_labeled": 30,
+      "seeds": 5,
+      "test_accuracy_mean": 0.8462,
+      "test_accuracy_std": 0.022030887408363724,
+      "runs": [
+        0.838,
+        0.845,
+        0.867,
+        0.871,
+        0.81
+      ]
+    },
+    {
+      "fraction": 0.1,
+      "n_labeled": 300,
+      "seeds": 5,
+      "test_accuracy_mean": 0.9378,
+      "test_accuracy_std": 0.00795989949685292,
+      "runs": [
+        0.942,
+        0.944,
+        0.923,
+        0.936,
+        0.944
+      ]
+    },
+    {
+      "fraction": 1.0,
+      "n_labeled": 3000,
+      "seeds": 1,
+      "test_accuracy_mean": 0.959,
+      "test_accuracy_std": 0.0,
+      "runs": [
+        0.959
+      ]
+    }
+  ]
+}
