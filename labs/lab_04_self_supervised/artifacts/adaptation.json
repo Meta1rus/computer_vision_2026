@@ -1,0 +1,28 @@
+{
+  "n_test": 1000,
+  "original": {
+    "test_accuracy": 0.959,
+    "test_macro_f1": 0.959018757538872
+  },
+  "adapted": {
+    "test_accuracy": 0.957,
+    "test_macro_f1": 0.9571113953681785
+  },
+  "delta_accuracy": -0.0020000000000000018,
+  "mcnemar_table": [
+    [
+      937,
+      22
+    ],
+    [
+      20,
+      21
+    ]
+  ],
+  "mcnemar_exact_p": 0.8776143287523154,
+  "ssl": {
+    "epochs": 8,
+    "steps": 184,
+    "lr": 2e-05
+  }
+}
