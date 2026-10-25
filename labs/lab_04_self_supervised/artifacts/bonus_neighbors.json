@@ -1,0 +1,56 @@
+[
+ {
+  "test_index": 237,
+  "label": "airplane",
+  "purity": 0.0,
+  "neighbors": [
+   {
+    "train_index": 42278,
+    "label": "truck"
+   },
+   {
+    "train_index": 10979,
+    "label": "deer"
+   },
+   {
+    "train_index": 38585,
+    "label": "truck"
+   },
+   {
+    "train_index": 37860,
+    "label": "dog"
+   },
+   {
+    "train_index": 30728,
+    "label": "truck"
+   }
+  ]
+ },
+ {
+  "test_index": 862,
+  "label": "cat",
+  "purity": 0.0,
+  "neighbors": [
+   {
+    "train_index": 19758,
+    "label": "deer"
+   },
+   {
+    "train_index": 38940,
+    "label": "deer"
+   },
+   {
+    "train_index": 45811,
+    "label": "deer"
+   },
+   {
+    "train_index": 49754,
+    "label": "frog"
+   },
+   {
+    "train_index": 10834,
+    "label": "deer"
+   }
+  ]
+ }
+]
