@@ -11,7 +11,7 @@
 |---:|---|---|
 | 1 | [Transfer learning и fine-tuning визуального backbone](labs/lab_01_transfer_learning) | выполнена: EfficientNet-B0, test acc 0,944 |
 | 2 | [Детекция и сегментация объектов](labs/lab_02_detection_segmentation) | выполнена: LRASPP, test mIoU 0,804 |
-| 3 | [Foundation models для сегментации: SAM](labs/lab_03_sam) | шаблон |
+| 3 | [Foundation models для сегментации: SAM](labs/lab_03_sam) | выполнена: SAM с рамкой — IoU 0,967 (LRASPP 0,974), точка — 0,815 |
 | 4 | [Self-supervised learning визуальных представлений](labs/lab_04_self_supervised) | шаблон |
 | 5 | [CLIP: zero-shot-классификация и мультимодальный поиск](labs/lab_05_clip_retrieval) | шаблон |
 | 6 | [Построение и оценка VLM-пайплайна](labs/lab_06_vlm_evaluation) | шаблон |
