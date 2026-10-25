@@ -1,0 +1,1009 @@
+{
+ "n": 200,
+ "mean_iou_sam_box": 0.9668710880549953,
+ "mean_iou_supervised": 0.9744986223151215,
+ "sam_box_better_share": 0.475,
+ "wilcoxon_p": 0.24147008531564274,
+ "pairs": [
+  {
+   "test_index": 17,
+   "sam_box_iou": 0.9985491671144546,
+   "supervised_iou": 0.9995166228046619
+  },
+  {
+   "test_index": 26,
+   "sam_box_iou": 0.9935295483956598,
+   "supervised_iou": 0.9970477991176568
+  },
+  {
+   "test_index": 32,
+   "sam_box_iou": 0.9761542601736363,
+   "supervised_iou": 0.9783305642009688
+  },
+  {
+   "test_index": 33,
+   "sam_box_iou": 0.9903527853967653,
+   "supervised_iou": 0.9617561067622371
+  },
+  {
+   "test_index": 51,
+   "sam_box_iou": 0.977052799096486,
+   "supervised_iou": 0.9991786236813059
+  },
+  {
+   "test_index": 52,
+   "sam_box_iou": 0.9923144104803493,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 70,
+   "sam_box_iou": 0.0006614485723734979,
+   "supervised_iou": 0.9164544659344932
+  },
+  {
+   "test_index": 93,
+   "sam_box_iou": 0.9988604212511789,
+   "supervised_iou": 0.9960438699569134
+  },
+  {
+   "test_index": 109,
+   "sam_box_iou": 0.776548810041633,
+   "supervised_iou": 0.9717181166198939
+  },
+  {
+   "test_index": 120,
+   "sam_box_iou": 0.9966719972338678,
+   "supervised_iou": 0.9853714872321314
+  },
+  {
+   "test_index": 134,
+   "sam_box_iou": 0.9953700301315499,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 149,
+   "sam_box_iou": 0.9985161946752587,
+   "supervised_iou": 0.9991950516861549
+  },
+  {
+   "test_index": 170,
+   "sam_box_iou": 0.9964700672120044,
+   "supervised_iou": 0.9999479003855372
+  },
+  {
+   "test_index": 179,
+   "sam_box_iou": 0.9965518322309646,
+   "supervised_iou": 0.9898274409461104
+  },
+  {
+   "test_index": 184,
+   "sam_box_iou": 0.9087151377640993,
+   "supervised_iou": 0.9683843359261818
+  },
+  {
+   "test_index": 196,
+   "sam_box_iou": 0.9931908997980924,
+   "supervised_iou": 0.9958482764440318
+  },
+  {
+   "test_index": 211,
+   "sam_box_iou": 0.9989948065002513,
+   "supervised_iou": 0.9778219132737505
+  },
+  {
+   "test_index": 229,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.99680875980794
+  },
+  {
+   "test_index": 251,
+   "sam_box_iou": 0.9981316628200901,
+   "supervised_iou": 0.8588944518238479
+  },
+  {
+   "test_index": 263,
+   "sam_box_iou": 0.9901842852331232,
+   "supervised_iou": 0.9986207338978702
+  },
+  {
+   "test_index": 270,
+   "sam_box_iou": 0.9996894409937889,
+   "supervised_iou": 0.9970059880239521
+  },
+  {
+   "test_index": 279,
+   "sam_box_iou": 0.9937896152122415,
+   "supervised_iou": 0.9241789904328308
+  },
+  {
+   "test_index": 291,
+   "sam_box_iou": 0.997974557600739,
+   "supervised_iou": 0.9899222880664277
+  },
+  {
+   "test_index": 298,
+   "sam_box_iou": 0.7279529115480914,
+   "supervised_iou": 0.9568849366747507
+  },
+  {
+   "test_index": 299,
+   "sam_box_iou": 0.9719227759544972,
+   "supervised_iou": 0.9956435921094124
+  },
+  {
+   "test_index": 315,
+   "sam_box_iou": 0.9979720197507642,
+   "supervised_iou": 0.9989713143663297
+  },
+  {
+   "test_index": 321,
+   "sam_box_iou": 0.9926257952573742,
+   "supervised_iou": 0.7790345766815465
+  },
+  {
+   "test_index": 322,
+   "sam_box_iou": 0.9979436561793131,
+   "supervised_iou": 0.9994516416478169
+  },
+  {
+   "test_index": 325,
+   "sam_box_iou": 0.9956506768634131,
+   "supervised_iou": 0.9993657237092477
+  },
+  {
+   "test_index": 351,
+   "sam_box_iou": 0.9997571636716853,
+   "supervised_iou": 0.9710021839359378
+  },
+  {
+   "test_index": 358,
+   "sam_box_iou": 0.9486086317336974,
+   "supervised_iou": 0.9427765590723911
+  },
+  {
+   "test_index": 393,
+   "sam_box_iou": 0.9884424119749107,
+   "supervised_iou": 0.9923203716190905
+  },
+  {
+   "test_index": 402,
+   "sam_box_iou": 0.8675242126948636,
+   "supervised_iou": 0.9027175649158033
+  },
+  {
+   "test_index": 410,
+   "sam_box_iou": 0.9087661331956634,
+   "supervised_iou": 0.8371202012885517
+  },
+  {
+   "test_index": 411,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9922799044456098
+  },
+  {
+   "test_index": 415,
+   "sam_box_iou": 0.8849050556846406,
+   "supervised_iou": 0.8732082922013821
+  },
+  {
+   "test_index": 443,
+   "sam_box_iou": 0.9988383799272051,
+   "supervised_iou": 0.9991488044571694
+  },
+  {
+   "test_index": 457,
+   "sam_box_iou": 0.9956393548227249,
+   "supervised_iou": 0.7992593766089746
+  },
+  {
+   "test_index": 461,
+   "sam_box_iou": 0.997385247522577,
+   "supervised_iou": 0.9907047785293476
+  },
+  {
+   "test_index": 463,
+   "sam_box_iou": 0.8151225076877294,
+   "supervised_iou": 0.8084763416327745
+  },
+  {
+   "test_index": 538,
+   "sam_box_iou": 0.998942777851196,
+   "supervised_iou": 0.9794582779189656
+  },
+  {
+   "test_index": 544,
+   "sam_box_iou": 0.9934246575342466,
+   "supervised_iou": 0.990429747028345
+  },
+  {
+   "test_index": 564,
+   "sam_box_iou": 0.913936063936064,
+   "supervised_iou": 0.8860230901498404
+  },
+  {
+   "test_index": 594,
+   "sam_box_iou": 0.9999211387563582,
+   "supervised_iou": 0.9920369392107374
+  },
+  {
+   "test_index": 650,
+   "sam_box_iou": 0.9958047085019144,
+   "supervised_iou": 0.9918262050237611
+  },
+  {
+   "test_index": 676,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.8337342313448792
+  },
+  {
+   "test_index": 712,
+   "sam_box_iou": 0.9873030982282679,
+   "supervised_iou": 0.9999232410690984
+  },
+  {
+   "test_index": 746,
+   "sam_box_iou": 0.9932644166696682,
+   "supervised_iou": 0.9939522661002916
+  },
+  {
+   "test_index": 752,
+   "sam_box_iou": 0.9966778146909478,
+   "supervised_iou": 0.9987339804100127
+  },
+  {
+   "test_index": 755,
+   "sam_box_iou": 0.9999025246125354,
+   "supervised_iou": 0.9939768789870794
+  },
+  {
+   "test_index": 798,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9994993272209531
+  },
+  {
+   "test_index": 802,
+   "sam_box_iou": 0.9937672860426162,
+   "supervised_iou": 0.9836758433501357
+  },
+  {
+   "test_index": 817,
+   "sam_box_iou": 0.9562003947423676,
+   "supervised_iou": 0.9997201192292083
+  },
+  {
+   "test_index": 818,
+   "sam_box_iou": 0.9880021746058527,
+   "supervised_iou": 0.9958382543164052
+  },
+  {
+   "test_index": 829,
+   "sam_box_iou": 0.9907323836197672,
+   "supervised_iou": 0.9997952936140913
+  },
+  {
+   "test_index": 839,
+   "sam_box_iou": 0.9900810132025135,
+   "supervised_iou": 0.9999120561277336
+  },
+  {
+   "test_index": 874,
+   "sam_box_iou": 0.98652448029081,
+   "supervised_iou": 0.9943059184368965
+  },
+  {
+   "test_index": 927,
+   "sam_box_iou": 0.9866734143049932,
+   "supervised_iou": 0.9622300944669365
+  },
+  {
+   "test_index": 929,
+   "sam_box_iou": 0.9997895576279822,
+   "supervised_iou": 0.9993800989627727
+  },
+  {
+   "test_index": 1001,
+   "sam_box_iou": 0.9991958541815582,
+   "supervised_iou": 0.967233549995548
+  },
+  {
+   "test_index": 1006,
+   "sam_box_iou": 0.9166313157248431,
+   "supervised_iou": 0.9093895155938951
+  },
+  {
+   "test_index": 1018,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9996194618102745
+  },
+  {
+   "test_index": 1037,
+   "sam_box_iou": 0.9961954651474019,
+   "supervised_iou": 0.9308572629487399
+  },
+  {
+   "test_index": 1080,
+   "sam_box_iou": 0.8804964128673918,
+   "supervised_iou": 0.9281886179494412
+  },
+  {
+   "test_index": 1095,
+   "sam_box_iou": 0.9822516713009525,
+   "supervised_iou": 0.992018244013683
+  },
+  {
+   "test_index": 1105,
+   "sam_box_iou": 0.9987473156764496,
+   "supervised_iou": 0.9998210450966356
+  },
+  {
+   "test_index": 1106,
+   "sam_box_iou": 0.8683821814506725,
+   "supervised_iou": 0.9917905824039653
+  },
+  {
+   "test_index": 1139,
+   "sam_box_iou": 0.9862148334396618,
+   "supervised_iou": 0.9748897141290531
+  },
+  {
+   "test_index": 1147,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.999505501298059
+  },
+  {
+   "test_index": 1175,
+   "sam_box_iou": 0.9969543147208122,
+   "supervised_iou": 0.9989858012170385
+  },
+  {
+   "test_index": 1205,
+   "sam_box_iou": 0.9997386826531397,
+   "supervised_iou": 0.9961121185112334
+  },
+  {
+   "test_index": 1211,
+   "sam_box_iou": 0.9998569589472178,
+   "supervised_iou": 0.997464376272276
+  },
+  {
+   "test_index": 1223,
+   "sam_box_iou": 0.9990993587434254,
+   "supervised_iou": 0.9979822001225093
+  },
+  {
+   "test_index": 1227,
+   "sam_box_iou": 0.9999719530494047,
+   "supervised_iou": 0.9991726149574387
+  },
+  {
+   "test_index": 1229,
+   "sam_box_iou": 0.9883464012670355,
+   "supervised_iou": 0.9216237572817318
+  },
+  {
+   "test_index": 1238,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9992109675510406
+  },
+  {
+   "test_index": 1264,
+   "sam_box_iou": 0.993853116774732,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 1290,
+   "sam_box_iou": 0.9771250957250327,
+   "supervised_iou": 0.9717561521252797
+  },
+  {
+   "test_index": 1316,
+   "sam_box_iou": 0.9946728173186123,
+   "supervised_iou": 0.998911147276112
+  },
+  {
+   "test_index": 1339,
+   "sam_box_iou": 0.9997173224785165,
+   "supervised_iou": 0.9970608184490165
+  },
+  {
+   "test_index": 1341,
+   "sam_box_iou": 0.999796658420036,
+   "supervised_iou": 0.9999661097366727
+  },
+  {
+   "test_index": 1346,
+   "sam_box_iou": 0.9956830650238331,
+   "supervised_iou": 0.9996402554186528
+  },
+  {
+   "test_index": 1352,
+   "sam_box_iou": 0.8716765914618804,
+   "supervised_iou": 0.9996645139646062
+  },
+  {
+   "test_index": 1367,
+   "sam_box_iou": 0.9749741216586495,
+   "supervised_iou": 0.9894463876492582
+  },
+  {
+   "test_index": 1396,
+   "sam_box_iou": 0.9929852320675105,
+   "supervised_iou": 0.9727663640707119
+  },
+  {
+   "test_index": 1403,
+   "sam_box_iou": 0.9900061343420918,
+   "supervised_iou": 0.9852133608746032
+  },
+  {
+   "test_index": 1413,
+   "sam_box_iou": 0.9916034321200875,
+   "supervised_iou": 0.9669281790287909
+  },
+  {
+   "test_index": 1420,
+   "sam_box_iou": 0.9897747919043394,
+   "supervised_iou": 0.9971509971509972
+  },
+  {
+   "test_index": 1423,
+   "sam_box_iou": 0.9871240214256284,
+   "supervised_iou": 0.9840005493373618
+  },
+  {
+   "test_index": 1443,
+   "sam_box_iou": 0.9971267787619646,
+   "supervised_iou": 0.9955283516109836
+  },
+  {
+   "test_index": 1447,
+   "sam_box_iou": 0.9430652544354974,
+   "supervised_iou": 0.9978994398506268
+  },
+  {
+   "test_index": 1499,
+   "sam_box_iou": 0.9941842466056344,
+   "supervised_iou": 0.9999778663125277
+  },
+  {
+   "test_index": 1503,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 1510,
+   "sam_box_iou": 0.9998805795870708,
+   "supervised_iou": 0.997770818958654
+  },
+  {
+   "test_index": 1534,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9364369821194941
+  },
+  {
+   "test_index": 1587,
+   "sam_box_iou": 0.9938814794445209,
+   "supervised_iou": 0.9973781048758049
+  },
+  {
+   "test_index": 1616,
+   "sam_box_iou": 0.9978952005678063,
+   "supervised_iou": 0.9999264218968436
+  },
+  {
+   "test_index": 1642,
+   "sam_box_iou": 0.9963921737923804,
+   "supervised_iou": 0.9814829090796959
+  },
+  {
+   "test_index": 1653,
+   "sam_box_iou": 0.9999860873436566,
+   "supervised_iou": 0.9991095899940176
+  },
+  {
+   "test_index": 1719,
+   "sam_box_iou": 0.9913810100554883,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 1731,
+   "sam_box_iou": 0.9932429665424465,
+   "supervised_iou": 0.9886654478976235
+  },
+  {
+   "test_index": 1741,
+   "sam_box_iou": 0.9648755176370802,
+   "supervised_iou": 0.9800082492276871
+  },
+  {
+   "test_index": 1747,
+   "sam_box_iou": 0.9522688884249683,
+   "supervised_iou": 0.9959196067639635
+  },
+  {
+   "test_index": 1756,
+   "sam_box_iou": 0.9994984954864594,
+   "supervised_iou": 0.9991124317440716
+  },
+  {
+   "test_index": 1797,
+   "sam_box_iou": 0.9942357020041154,
+   "supervised_iou": 0.9937071905741748
+  },
+  {
+   "test_index": 1802,
+   "sam_box_iou": 0.9938766762598739,
+   "supervised_iou": 0.9979966049335515
+  },
+  {
+   "test_index": 1848,
+   "sam_box_iou": 0.9953104946194096,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 1862,
+   "sam_box_iou": 0.9708946268303539,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 1875,
+   "sam_box_iou": 0.9995321057991358,
+   "supervised_iou": 0.9953210579913577
+  },
+  {
+   "test_index": 1879,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9996807420227514
+  },
+  {
+   "test_index": 1900,
+   "sam_box_iou": 0.9935801505194439,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 1907,
+   "sam_box_iou": 0.9991037284894837,
+   "supervised_iou": 0.9955485181644359
+  },
+  {
+   "test_index": 1974,
+   "sam_box_iou": 0.9981543734757102,
+   "supervised_iou": 0.9922115321683356
+  },
+  {
+   "test_index": 1983,
+   "sam_box_iou": 0.9810984072434076,
+   "supervised_iou": 0.9993721498909524
+  },
+  {
+   "test_index": 1990,
+   "sam_box_iou": 0.7178985747431224,
+   "supervised_iou": 0.9780703685763353
+  },
+  {
+   "test_index": 2012,
+   "sam_box_iou": 0.9112201925180485,
+   "supervised_iou": 0.9990712895807535
+  },
+  {
+   "test_index": 2019,
+   "sam_box_iou": 0.9920911178991736,
+   "supervised_iou": 0.9923024330441342
+  },
+  {
+   "test_index": 2049,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9968029801784771
+  },
+  {
+   "test_index": 2056,
+   "sam_box_iou": 0.9997161732321996,
+   "supervised_iou": 0.9967584456160906
+  },
+  {
+   "test_index": 2062,
+   "sam_box_iou": 0.9941803818301514,
+   "supervised_iou": 0.9930743910467412
+  },
+  {
+   "test_index": 2070,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9960745829244357
+  },
+  {
+   "test_index": 2116,
+   "sam_box_iou": 0.9960823519838179,
+   "supervised_iou": 0.9982911149603004
+  },
+  {
+   "test_index": 2143,
+   "sam_box_iou": 0.999724712914897,
+   "supervised_iou": 0.994494691309477
+  },
+  {
+   "test_index": 2166,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9354597896165592
+  },
+  {
+   "test_index": 2188,
+   "sam_box_iou": 0.9921222328096262,
+   "supervised_iou": 0.9956411995596722
+  },
+  {
+   "test_index": 2211,
+   "sam_box_iou": 0.9923951468598612,
+   "supervised_iou": 0.9963339588879675
+  },
+  {
+   "test_index": 2228,
+   "sam_box_iou": 0.9997834195644327,
+   "supervised_iou": 0.9985561304295512
+  },
+  {
+   "test_index": 2229,
+   "sam_box_iou": 0.9949184589931458,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 2244,
+   "sam_box_iou": 0.9948828866849546,
+   "supervised_iou": 0.9866005486389534
+  },
+  {
+   "test_index": 2255,
+   "sam_box_iou": 0.999601891017666,
+   "supervised_iou": 0.9966907190843494
+  },
+  {
+   "test_index": 2271,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9967038010597905
+  },
+  {
+   "test_index": 2277,
+   "sam_box_iou": 0.9875680739247098,
+   "supervised_iou": 0.9954655716392117
+  },
+  {
+   "test_index": 2285,
+   "sam_box_iou": 0.8824599107290462,
+   "supervised_iou": 0.9098450898602862
+  },
+  {
+   "test_index": 2357,
+   "sam_box_iou": 0.9951887183741186,
+   "supervised_iou": 0.9972256786027006
+  },
+  {
+   "test_index": 2358,
+   "sam_box_iou": 0.7550815471449842,
+   "supervised_iou": 0.98735315272117
+  },
+  {
+   "test_index": 2359,
+   "sam_box_iou": 0.9664282954751524,
+   "supervised_iou": 0.972994433787226
+  },
+  {
+   "test_index": 2497,
+   "sam_box_iou": 0.9948554787227218,
+   "supervised_iou": 0.976060225846926
+  },
+  {
+   "test_index": 2510,
+   "sam_box_iou": 0.999656219561107,
+   "supervised_iou": 0.9931670652545268
+  },
+  {
+   "test_index": 2547,
+   "sam_box_iou": 0.9902559455803753,
+   "supervised_iou": 0.9957874355686962
+  },
+  {
+   "test_index": 2551,
+   "sam_box_iou": 0.9856498159217767,
+   "supervised_iou": 0.9918897158454922
+  },
+  {
+   "test_index": 2579,
+   "sam_box_iou": 0.9954279703020372,
+   "supervised_iou": 0.99456685783278
+  },
+  {
+   "test_index": 2581,
+   "sam_box_iou": 0.9906665863792377,
+   "supervised_iou": 0.978929624947324
+  },
+  {
+   "test_index": 2591,
+   "sam_box_iou": 0.918468667255075,
+   "supervised_iou": 0.9462831764830284
+  },
+  {
+   "test_index": 2593,
+   "sam_box_iou": 0.9558291378225299,
+   "supervised_iou": 0.9992898591892221
+  },
+  {
+   "test_index": 2604,
+   "sam_box_iou": 0.9932240781594706,
+   "supervised_iou": 0.9007083561671639
+  },
+  {
+   "test_index": 2611,
+   "sam_box_iou": 0.966142392519565,
+   "supervised_iou": 0.986820138827871
+  },
+  {
+   "test_index": 2619,
+   "sam_box_iou": 0.9944747069565625,
+   "supervised_iou": 0.9999687846295516
+  },
+  {
+   "test_index": 2624,
+   "sam_box_iou": 0.9911983479359223,
+   "supervised_iou": 0.9907453626979215
+  },
+  {
+   "test_index": 2643,
+   "sam_box_iou": 0.86970112531763,
+   "supervised_iou": 0.9533476844952254
+  },
+  {
+   "test_index": 2647,
+   "sam_box_iou": 0.9885245901639345,
+   "supervised_iou": 0.9945363758220912
+  },
+  {
+   "test_index": 2648,
+   "sam_box_iou": 0.9999006877374184,
+   "supervised_iou": 0.9973968017850502
+  },
+  {
+   "test_index": 2655,
+   "sam_box_iou": 0.9673716727692626,
+   "supervised_iou": 0.9844414573469223
+  },
+  {
+   "test_index": 2724,
+   "sam_box_iou": 0.8014051522248243,
+   "supervised_iou": 0.9599986859683318
+  },
+  {
+   "test_index": 2736,
+   "sam_box_iou": 0.9997228088701161,
+   "supervised_iou": 0.9998548046462513
+  },
+  {
+   "test_index": 2770,
+   "sam_box_iou": 0.9957264957264957,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 2785,
+   "sam_box_iou": 0.8775658631348269,
+   "supervised_iou": 0.9877402856130336
+  },
+  {
+   "test_index": 2802,
+   "sam_box_iou": 0.9970242415444912,
+   "supervised_iou": 0.9976774568152127
+  },
+  {
+   "test_index": 2879,
+   "sam_box_iou": 0.9995142093757591,
+   "supervised_iou": 0.9997350291467939
+  },
+  {
+   "test_index": 2892,
+   "sam_box_iou": 0.9871599103868746,
+   "supervised_iou": 0.9901843508591488
+  },
+  {
+   "test_index": 2916,
+   "sam_box_iou": 0.9303998072324887,
+   "supervised_iou": 0.9952047435234191
+  },
+  {
+   "test_index": 2923,
+   "sam_box_iou": 0.9797226593719874,
+   "supervised_iou": 0.9879126945545329
+  },
+  {
+   "test_index": 2930,
+   "sam_box_iou": 0.9775373897849153,
+   "supervised_iou": 0.9971380176391565
+  },
+  {
+   "test_index": 2941,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.996384827065235
+  },
+  {
+   "test_index": 2943,
+   "sam_box_iou": 0.9959598742051741,
+   "supervised_iou": 0.9998392467562291
+  },
+  {
+   "test_index": 2969,
+   "sam_box_iou": 0.9983601378086026,
+   "supervised_iou": 0.975878663269715
+  },
+  {
+   "test_index": 2971,
+   "sam_box_iou": 0.974639514292942,
+   "supervised_iou": 0.9993675689349861
+  },
+  {
+   "test_index": 2984,
+   "sam_box_iou": 0.9995312709254052,
+   "supervised_iou": 0.9968201901191592
+  },
+  {
+   "test_index": 2991,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 2992,
+   "sam_box_iou": 0.9915410589341038,
+   "supervised_iou": 0.8616398020823848
+  },
+  {
+   "test_index": 2994,
+   "sam_box_iou": 0.9970758388555802,
+   "supervised_iou": 0.9952889447236181
+  },
+  {
+   "test_index": 3018,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 3045,
+   "sam_box_iou": 0.9770189561152948,
+   "supervised_iou": 0.999169047000779
+  },
+  {
+   "test_index": 3081,
+   "sam_box_iou": 0.9977397707148848,
+   "supervised_iou": 0.9911687948550657
+  },
+  {
+   "test_index": 3122,
+   "sam_box_iou": 0.9944859992328346,
+   "supervised_iou": 0.9981241883507287
+  },
+  {
+   "test_index": 3124,
+   "sam_box_iou": 0.9576040627550557,
+   "supervised_iou": 0.9911588683351469
+  },
+  {
+   "test_index": 3144,
+   "sam_box_iou": 0.9338737317411527,
+   "supervised_iou": 0.9793159719861291
+  },
+  {
+   "test_index": 3175,
+   "sam_box_iou": 0.9977369680574342,
+   "supervised_iou": 0.9995833007787067
+  },
+  {
+   "test_index": 3217,
+   "sam_box_iou": 0.9522887323943662,
+   "supervised_iou": 0.9816879770046585
+  },
+  {
+   "test_index": 3252,
+   "sam_box_iou": 0.9760095961615354,
+   "supervised_iou": 0.9983773450697964
+  },
+  {
+   "test_index": 3283,
+   "sam_box_iou": 0.9920063948840927,
+   "supervised_iou": 0.39256614483200586
+  },
+  {
+   "test_index": 3286,
+   "sam_box_iou": 0.9042639711862438,
+   "supervised_iou": 0.9226744927906086
+  },
+  {
+   "test_index": 3319,
+   "sam_box_iou": 0.9990379259709352,
+   "supervised_iou": 0.523780422999256
+  },
+  {
+   "test_index": 3371,
+   "sam_box_iou": 0.9947527457614852,
+   "supervised_iou": 0.9949156835782008
+  },
+  {
+   "test_index": 3375,
+   "sam_box_iou": 0.9992430271151569,
+   "supervised_iou": 0.9581375726312156
+  },
+  {
+   "test_index": 3382,
+   "sam_box_iou": 0.9856553475087274,
+   "supervised_iou": 0.9961072206825058
+  },
+  {
+   "test_index": 3398,
+   "sam_box_iou": 0.9068775285031262,
+   "supervised_iou": 0.9226969905812084
+  },
+  {
+   "test_index": 3421,
+   "sam_box_iou": 0.9960203609440074,
+   "supervised_iou": 0.979244142101285
+  },
+  {
+   "test_index": 3444,
+   "sam_box_iou": 0.9922690683031801,
+   "supervised_iou": 0.9958720330237358
+  },
+  {
+   "test_index": 3490,
+   "sam_box_iou": 0.9996962332928311,
+   "supervised_iou": 1.0
+  },
+  {
+   "test_index": 3512,
+   "sam_box_iou": 0.9990288875230485,
+   "supervised_iou": 0.9955255070682237
+  },
+  {
+   "test_index": 3519,
+   "sam_box_iou": 0.9998732894069944,
+   "supervised_iou": 0.9840445738888185
+  },
+  {
+   "test_index": 3524,
+   "sam_box_iou": 0.9988770599387488,
+   "supervised_iou": 0.9968213233793124
+  },
+  {
+   "test_index": 3571,
+   "sam_box_iou": 0.9996212728146713,
+   "supervised_iou": 0.9989511864703055
+  },
+  {
+   "test_index": 3585,
+   "sam_box_iou": 0.36191830928673036,
+   "supervised_iou": 0.9679959785522788
+  },
+  {
+   "test_index": 3589,
+   "sam_box_iou": 0.8037505273328525,
+   "supervised_iou": 0.9946360282919896
+  },
+  {
+   "test_index": 3595,
+   "sam_box_iou": 0.9976001840954667,
+   "supervised_iou": 0.9941155199053223
+  },
+  {
+   "test_index": 3619,
+   "sam_box_iou": 0.9942357707312194,
+   "supervised_iou": 0.9937231169350805
+  },
+  {
+   "test_index": 3621,
+   "sam_box_iou": 1.0,
+   "supervised_iou": 0.9992515495263712
+  },
+  {
+   "test_index": 3654,
+   "sam_box_iou": 0.8408744998034492,
+   "supervised_iou": 0.9927466538430713
+  },
+  {
+   "test_index": 3655,
+   "sam_box_iou": 0.9974605655125263,
+   "supervised_iou": 0.974802226779959
+  }
+ ]
+}

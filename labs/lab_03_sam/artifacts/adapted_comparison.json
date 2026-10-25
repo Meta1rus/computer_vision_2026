@@ -1,0 +1,20 @@
+{
+  "n": 200,
+  "mean_iou_sam_box": 0.9668710880549953,
+  "mean_iou_refined": 0.9695899861524996,
+  "mean_iou_supervised": 0.9744986223151215,
+  "refined_better_share": 0.725,
+  "wilcoxon_p_refined_vs_sam": 3.279457873621847e-12,
+  "need_major_fix_iou<0.8": {
+    "sam_point": 0.25,
+    "sam_box": 0.03,
+    "refined": 0.035,
+    "supervised": 0.02
+  },
+  "need_major_fix_iou<0.9": {
+    "sam_point": 0.325,
+    "sam_box": 0.09,
+    "refined": 0.09,
+    "supervised": 0.055
+  }
+}
