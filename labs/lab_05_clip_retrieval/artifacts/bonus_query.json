@@ -1,0 +1,46 @@
+{
+ "query": "a red vehicle on a road",
+ "model": "ViT-B-32/laion2b_s34b_b79k",
+ "top10": [
+  {
+   "test_index": 1467,
+   "score": 0.33471739292144775
+  },
+  {
+   "test_index": 7806,
+   "score": 0.31912729144096375
+  },
+  {
+   "test_index": 1732,
+   "score": 0.3188873529434204
+  },
+  {
+   "test_index": 1408,
+   "score": 0.31840986013412476
+  },
+  {
+   "test_index": 1747,
+   "score": 0.3133252263069153
+  },
+  {
+   "test_index": 8891,
+   "score": 0.3128493130207062
+  },
+  {
+   "test_index": 938,
+   "score": 0.3107163608074188
+  },
+  {
+   "test_index": 8880,
+   "score": 0.30808645486831665
+  },
+  {
+   "test_index": 796,
+   "score": 0.3052598834037781
+  },
+  {
+   "test_index": 2694,
+   "score": 0.30434107780456543
+  }
+ ]
+}
