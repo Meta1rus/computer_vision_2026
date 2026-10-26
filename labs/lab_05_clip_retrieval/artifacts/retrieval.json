@@ -1,0 +1,55 @@
+{
+ "query": "a photo of a dog.",
+ "top10": [
+  {
+   "test_index": 4998,
+   "score": 0.30499356985092163,
+   "label": "dog"
+  },
+  {
+   "test_index": 2989,
+   "score": 0.30381321907043457,
+   "label": "dog"
+  },
+  {
+   "test_index": 8202,
+   "score": 0.30285507440567017,
+   "label": "dog"
+  },
+  {
+   "test_index": 3393,
+   "score": 0.30243295431137085,
+   "label": "dog"
+  },
+  {
+   "test_index": 5459,
+   "score": 0.3022001385688782,
+   "label": "dog"
+  },
+  {
+   "test_index": 6072,
+   "score": 0.30187559127807617,
+   "label": "dog"
+  },
+  {
+   "test_index": 33,
+   "score": 0.3008768558502197,
+   "label": "dog"
+  },
+  {
+   "test_index": 9215,
+   "score": 0.30085551738739014,
+   "label": "dog"
+  },
+  {
+   "test_index": 6037,
+   "score": 0.2988910675048828,
+   "label": "dog"
+  },
+  {
+   "test_index": 4241,
+   "score": 0.29871928691864014,
+   "label": "dog"
+  }
+ ]
+}
