@@ -1,0 +1,24 @@
+[
+ {
+  "id": "structured-5",
+  "image": "/Users/filipp/Desktop/рабочий стол/Вуз/учеба/computer_vision/computer_vision_2026/data/lab06/pixmo-count-default-validation-5.jpg",
+  "reference": "{\"label\": \"wild birds\", \"count\": 10}",
+  "original_question": "How many wild birds are visible? Return only JSON with keys label and count, using label 'wild birds'.",
+  "original_answer": "{\n  \"label\": \"wild birds\",\n  \"count\": 12\n}",
+  "alternative_question": "Count the wild birds in the image one by one, then return only JSON like {\"label\": \"wild birds\", \"count\": N}.",
+  "alternative_answer": "{\"label\": \"wild birds\", \"count\": 19}",
+  "comment": "Просьба «считать по одному» не помогла, а ухудшила ответ: 12 → 19 при эталоне 10. Prompt требует вернуть только JSON, поэтому промежуточного перечисления нет и пошагового счёта по сути не происходит — формулировка лишь сдвигает число вверх. Формат валиден в обоих случаях, альтернативный ответ записан в одну строку.",
+  "comment_matches_answers": true
+ },
+ {
+  "id": "ocr-0",
+  "image": "/Users/filipp/Desktop/рабочий стол/Вуз/учеба/computer_vision/computer_vision_2026/data/lab06/pixmo-docs-other-validation-0.jpg",
+  "reference": "$2,500",
+  "original_question": "What is the total estimated cost?",
+  "original_answer": "The total estimated cost is $2,500.",
+  "alternative_question": "Read the relevant text in the document carefully. What is the total estimated cost? Answer with the exact value only.",
+  "alternative_answer": "$2,500",
+  "comment": "Значение прочитано одинаково, изменилась только форма ответа: требование «только точное значение» убирает обрамляющее предложение, и ответ дословно совпадает с эталоном. Значит, нулевой EM основной конфигурации на этом примере — ошибка формата, а не чтения документа.",
+  "comment_matches_answers": true
+ }
+]
