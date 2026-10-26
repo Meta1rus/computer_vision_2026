@@ -1,0 +1,20 @@
+{
+  "note": "EM — нормализованное точное совпадение (регистр, пунктуация, артикли); для captioning не используется",
+  "open_vqa": {
+    "n": 5,
+    "exact_match": 0.0,
+    "token_f1": 0.14950546989955854
+  },
+  "document_qa": {
+    "n": 5,
+    "exact_match": 0.4,
+    "token_f1": 0.6163809523809524
+  },
+  "object_count_json": {
+    "n": 5,
+    "exact_match": 0.2,
+    "token_f1": 0.7766666666666666,
+    "json_valid_rate": 0.4,
+    "count_accuracy": 0.2
+  }
+}

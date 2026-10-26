@@ -1,0 +1,52 @@
+{
+  "n_examples": 20,
+  "n_reviewed": 20,
+  "n_pending": 0,
+  "complete": true,
+  "rates": {
+    "hallucination": 0.15,
+    "ocr_error": 0.05,
+    "spatial_error": 0.1,
+    "counting_error": 0.25,
+    "correct": 0.45,
+    "partial": 0.3
+  },
+  "by_task_counts": {
+    "captioning": {
+      "n": 5,
+      "correct": 2,
+      "partial": 3,
+      "hallucination": 2,
+      "ocr_error": 1,
+      "spatial_error": 1,
+      "counting_error": 0
+    },
+    "vqa": {
+      "n": 5,
+      "correct": 2,
+      "partial": 2,
+      "hallucination": 0,
+      "ocr_error": 0,
+      "spatial_error": 1,
+      "counting_error": 1
+    },
+    "ocr": {
+      "n": 5,
+      "correct": 4,
+      "partial": 1,
+      "hallucination": 0,
+      "ocr_error": 0,
+      "spatial_error": 0,
+      "counting_error": 0
+    },
+    "structured": {
+      "n": 5,
+      "correct": 1,
+      "partial": 0,
+      "hallucination": 1,
+      "ocr_error": 0,
+      "spatial_error": 0,
+      "counting_error": 4
+    }
+  }
+}
