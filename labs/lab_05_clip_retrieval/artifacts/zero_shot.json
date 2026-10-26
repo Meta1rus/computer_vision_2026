@@ -1,0 +1,38 @@
+{
+  "templates": {
+    "{}.": {
+      "val_accuracy": 0.921999990940094,
+      "test_accuracy": 0.9150000214576721
+    },
+    "a photo of a {}.": {
+      "val_accuracy": 0.9440000057220459,
+      "test_accuracy": 0.9368000030517578
+    },
+    "a blurry photo of a {}.": {
+      "val_accuracy": 0.9350000023841858,
+      "test_accuracy": 0.9307000041007996
+    },
+    "a low resolution photo of a {}.": {
+      "val_accuracy": 0.9359999895095825,
+      "test_accuracy": 0.9311000108718872
+    },
+    "a photo of the small {}.": {
+      "val_accuracy": 0.921999990940094,
+      "test_accuracy": 0.9190000295639038
+    },
+    "an image showing a {}.": {
+      "val_accuracy": 0.9440000057220459,
+      "test_accuracy": 0.9355999827384949
+    },
+    "a drawing of a {}.": {
+      "val_accuracy": 0.9470000267028809,
+      "test_accuracy": 0.9369999766349792
+    }
+  },
+  "n_test": 10000,
+  "ensemble": {
+    "val_accuracy": 0.9430000185966492,
+    "test_accuracy": 0.9348999857902527
+  },
+  "chosen_on_validation": "a drawing of a {}."
+}
