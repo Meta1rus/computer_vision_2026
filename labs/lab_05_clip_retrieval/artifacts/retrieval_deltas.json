@@ -1,0 +1,72 @@
+{
+ "airplane": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.9487928748130798,
+  "adapted_AP": 0.9794897437095642
+ },
+ "automobile": {
+  "baseline_p@10": 0.800000011920929,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.19999998807907104,
+  "baseline_AP": 0.8092595338821411,
+  "adapted_AP": 0.9912689328193665
+ },
+ "bird": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.7762454748153687,
+  "adapted_AP": 0.9455400705337524
+ },
+ "cat": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.8385976552963257,
+  "adapted_AP": 0.887178361415863
+ },
+ "deer": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.9007521867752075,
+  "adapted_AP": 0.9743221998214722
+ },
+ "dog": {
+  "baseline_p@10": 0.699999988079071,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.30000001192092896,
+  "baseline_AP": 0.6562100648880005,
+  "adapted_AP": 0.9447222948074341
+ },
+ "frog": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.9644871950149536,
+  "adapted_AP": 0.9864893555641174
+ },
+ "horse": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.7994616627693176,
+  "adapted_AP": 0.9905587434768677
+ },
+ "ship": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.9023182392120361,
+  "adapted_AP": 0.9922397136688232
+ },
+ "truck": {
+  "baseline_p@10": 1.0,
+  "adapted_p@10": 1.0,
+  "delta_p@10": 0.0,
+  "baseline_AP": 0.9709075689315796,
+  "adapted_AP": 0.9955794811248779
+ }
+}

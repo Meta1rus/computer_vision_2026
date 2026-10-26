@@ -1,0 +1,96 @@
+{
+ "best_class": "truck",
+ "worst_class": "dog",
+ "examples": {
+  "truck": {
+   "precision@10": 1.0,
+   "results": [
+    {
+     "test_index": 1220,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 2714,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 4252,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 1629,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 1916,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 7752,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 7753,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 2873,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 7431,
+     "true_class": "truck"
+    },
+    {
+     "test_index": 5832,
+     "true_class": "truck"
+    }
+   ]
+  },
+  "dog": {
+   "precision@10": 0.699999988079071,
+   "results": [
+    {
+     "test_index": 8236,
+     "true_class": "dog"
+    },
+    {
+     "test_index": 6842,
+     "true_class": "cat"
+    },
+    {
+     "test_index": 6837,
+     "true_class": "dog"
+    },
+    {
+     "test_index": 1586,
+     "true_class": "dog"
+    },
+    {
+     "test_index": 9723,
+     "true_class": "horse"
+    },
+    {
+     "test_index": 8869,
+     "true_class": "dog"
+    },
+    {
+     "test_index": 5776,
+     "true_class": "dog"
+    },
+    {
+     "test_index": 1731,
+     "true_class": "dog"
+    },
+    {
+     "test_index": 239,
+     "true_class": "dog"
+    },
+    {
+     "test_index": 7709,
+     "true_class": "cat"
+    }
+   ]
+  }
+ }
+}
