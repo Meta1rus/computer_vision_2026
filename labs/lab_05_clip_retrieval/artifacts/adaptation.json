@@ -1,0 +1,16 @@
+{
+  "baseline": {
+    "test_accuracy": 0.9369999766349792,
+    "val_accuracy": 0.9470000267028809,
+    "mean_precision@10": 0.95,
+    "mAP": 0.856703245639801
+  },
+  "adapted": {
+    "test_accuracy": 0.9569000005722046,
+    "val_accuracy": 0.9599999785423279,
+    "mean_precision@10": 1.0,
+    "mAP": 0.9687388896942138
+  },
+  "n_test": 10000,
+  "train_pairs": 5000
+}
