@@ -1,0 +1,14 @@
+{
+  "model_id": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "revision": "482adb537c021c86670beed01cd58990d01e72e4",
+  "quantization": "bnb nf4, compute fp16",
+  "linear4bit_layers": 331,
+  "memory_footprint_gb": 1.3310411870479584,
+  "device": "mps",
+  "transformers": "4.57.6",
+  "bitsandbytes": "0.50.2",
+  "torch": "2.14.1",
+  "memory_probe": {
+    "recommended_max_gb": 37.44000244140625
+  }
+}
