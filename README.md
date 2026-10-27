@@ -15,7 +15,7 @@
 | 4 | [Self-supervised learning визуальных представлений](labs/lab_04_self_supervised) | выполнена: linear probe DINOv2, test acc 0,959 |
 | 5 | [CLIP: zero-shot-классификация и мультимодальный поиск](labs/lab_05_clip_retrieval) | выполнена: zero-shot 0,937 → 0,957, mAP поиска 0,969 |
 | 6 | [Построение и оценка VLM-пайплайна](labs/lab_06_vlm_evaluation) | выполнена: SmolVLM2 NF4 — документы 4/5 верно, подсчёт 1/5; абляция 8 вариантов |
-| 7 | [Автоматическая разметка изображений с помощью VLM](labs/lab_07_vlm_annotation) | шаблон |
+| 7 | [Автоматическая разметка изображений с помощью VLM](labs/lab_07_vlm_annotation) | выполнена: Qwen2.5-VL-3B — accuracy 0,935, подписи верны в 80 %, downstream −3,5 п. п. |
 | 8 | [Active learning и human-in-the-loop](labs/lab_08_active_learning) | шаблон |
 | 9 | [Fine-tuning VLM с помощью LLaMA-Factory](labs/lab_09_llamafactory_vlm_sft) | шаблон |
 | 10 | [Эффективный fine-tuning VLM с помощью Unsloth](labs/lab_10_unsloth_efficiency) | шаблон |
