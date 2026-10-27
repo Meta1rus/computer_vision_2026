@@ -1,0 +1,40 @@
+{
+  "json_schema": {
+    "properties": {
+      "class_name": {
+        "enum": [
+          "airplane",
+          "automobile",
+          "bird",
+          "cat",
+          "deer",
+          "dog",
+          "frog",
+          "horse",
+          "ship",
+          "truck"
+        ],
+        "title": "Class Name",
+        "type": "string"
+      },
+      "caption": {
+        "maxLength": 300,
+        "minLength": 3,
+        "title": "Caption",
+        "type": "string"
+      },
+      "uncertain": {
+        "title": "Uncertain",
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "class_name",
+      "caption",
+      "uncertain"
+    ],
+    "title": "Annotation",
+    "type": "object"
+  },
+  "prompt": "Classify this small photo into exactly one of these classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.\nReturn only a JSON object with keys: \"class_name\" (one of the classes above, lowercase), \"caption\" (one short sentence describing what is visible) and \"uncertain\" (true if you are not sure about the class)."
+}

@@ -1,0 +1,12 @@
+{
+  "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "quantization": "fp16 (MPS, без квантования)",
+  "device": "mps",
+  "prompt": "Classify this small photo into exactly one of these classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.\nReturn only a JSON object with keys: \"class_name\" (one of the classes above, lowercase), \"caption\" (one short sentence describing what is visible) and \"uncertain\" (true if you are not sure about the class).",
+  "max_attempts": 3,
+  "decoding": "attempt 1 greedy, retries: temperature 0.7, top_p 0.9",
+  "max_new_tokens": 64,
+  "transformers": "4.57.6",
+  "torch": "2.14.1",
+  "mean_seconds_per_image": 9.715175344546635
+}
