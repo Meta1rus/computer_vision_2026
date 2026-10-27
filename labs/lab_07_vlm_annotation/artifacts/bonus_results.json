@@ -1,0 +1,709 @@
+{
+  "rows": [
+    {
+      "id": "cifar10-train-16015",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.98471
+    },
+    {
+      "id": "cifar10-train-36632",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.99805
+    },
+    {
+      "id": "cifar10-train-34781",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.99836
+    },
+    {
+      "id": "cifar10-train-18767",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.80231
+    },
+    {
+      "id": "cifar10-train-33516",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.43393
+    },
+    {
+      "id": "cifar10-train-34131",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.99972
+    },
+    {
+      "id": "cifar10-train-12165",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.99996
+    },
+    {
+      "id": "cifar10-train-33694",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.99813
+    },
+    {
+      "id": "cifar10-train-11073",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.99363
+    },
+    {
+      "id": "cifar10-train-22773",
+      "reference": "airplane",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.57603
+    },
+    {
+      "id": "cifar10-train-17128",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.76035
+    },
+    {
+      "id": "cifar10-train-15801",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.90204
+    },
+    {
+      "id": "cifar10-train-16490",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "automobile",
+      "conf": 0.9965
+    },
+    {
+      "id": "cifar10-train-07005",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "automobile",
+      "conf": 0.9981
+    },
+    {
+      "id": "cifar10-train-38330",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "automobile",
+      "conf": 0.99787
+    },
+    {
+      "id": "cifar10-train-14519",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "automobile",
+      "conf": 0.99994
+    },
+    {
+      "id": "cifar10-train-45068",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.94735
+    },
+    {
+      "id": "cifar10-train-30747",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "automobile",
+      "conf": 0.99939
+    },
+    {
+      "id": "cifar10-train-20107",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "automobile",
+      "conf": 0.90311
+    },
+    {
+      "id": "cifar10-train-07238",
+      "reference": "automobile",
+      "valid": true,
+      "pred": "automobile",
+      "conf": 0.99805
+    },
+    {
+      "id": "cifar10-train-25149",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.99996
+    },
+    {
+      "id": "cifar10-train-13424",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.99995
+    },
+    {
+      "id": "cifar10-train-48703",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.9973
+    },
+    {
+      "id": "cifar10-train-40727",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.99973
+    },
+    {
+      "id": "cifar10-train-23586",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.99877
+    },
+    {
+      "id": "cifar10-train-07890",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.71724
+    },
+    {
+      "id": "cifar10-train-41411",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.99988
+    },
+    {
+      "id": "cifar10-train-04109",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.99701
+    },
+    {
+      "id": "cifar10-train-17817",
+      "reference": "bird",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.46239
+    },
+    {
+      "id": "cifar10-train-01609",
+      "reference": "bird",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.99997
+    },
+    {
+      "id": "cifar10-train-03905",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.91554
+    },
+    {
+      "id": "cifar10-train-26690",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.99171
+    },
+    {
+      "id": "cifar10-train-17912",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.99897
+    },
+    {
+      "id": "cifar10-train-43262",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.89438
+    },
+    {
+      "id": "cifar10-train-30721",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.99719
+    },
+    {
+      "id": "cifar10-train-30361",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.99945
+    },
+    {
+      "id": "cifar10-train-25055",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.88804
+    },
+    {
+      "id": "cifar10-train-00241",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.57157
+    },
+    {
+      "id": "cifar10-train-13725",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.97031
+    },
+    {
+      "id": "cifar10-train-46121",
+      "reference": "cat",
+      "valid": true,
+      "pred": "cat",
+      "conf": 0.97717
+    },
+    {
+      "id": "cifar10-train-05358",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.99957
+    },
+    {
+      "id": "cifar10-train-34261",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.98617
+    },
+    {
+      "id": "cifar10-train-48068",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.99932
+    },
+    {
+      "id": "cifar10-train-01784",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.95809
+    },
+    {
+      "id": "cifar10-train-46276",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.99464
+    },
+    {
+      "id": "cifar10-train-29698",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.97559
+    },
+    {
+      "id": "cifar10-train-26460",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.99901
+    },
+    {
+      "id": "cifar10-train-06180",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.99967
+    },
+    {
+      "id": "cifar10-train-36319",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.96483
+    },
+    {
+      "id": "cifar10-train-14853",
+      "reference": "deer",
+      "valid": true,
+      "pred": "deer",
+      "conf": 0.49506
+    },
+    {
+      "id": "cifar10-train-07236",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.98946
+    },
+    {
+      "id": "cifar10-train-25751",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.96164
+    },
+    {
+      "id": "cifar10-train-25980",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.98472
+    },
+    {
+      "id": "cifar10-train-28508",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.9853
+    },
+    {
+      "id": "cifar10-train-23689",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.92913
+    },
+    {
+      "id": "cifar10-train-38792",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.99867
+    },
+    {
+      "id": "cifar10-train-47463",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.9957
+    },
+    {
+      "id": "cifar10-train-32656",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.98093
+    },
+    {
+      "id": "cifar10-train-21548",
+      "reference": "dog",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.25669
+    },
+    {
+      "id": "cifar10-train-16873",
+      "reference": "dog",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.90916
+    },
+    {
+      "id": "cifar10-train-14508",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.97023
+    },
+    {
+      "id": "cifar10-train-08697",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.99969
+    },
+    {
+      "id": "cifar10-train-32812",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.99981
+    },
+    {
+      "id": "cifar10-train-44239",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.97226
+    },
+    {
+      "id": "cifar10-train-46952",
+      "reference": "frog",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.26642
+    },
+    {
+      "id": "cifar10-train-00720",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.94086
+    },
+    {
+      "id": "cifar10-train-36544",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.68381
+    },
+    {
+      "id": "cifar10-train-17940",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.99932
+    },
+    {
+      "id": "cifar10-train-45164",
+      "reference": "frog",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.52286
+    },
+    {
+      "id": "cifar10-train-07133",
+      "reference": "frog",
+      "valid": true,
+      "pred": "frog",
+      "conf": 0.87274
+    },
+    {
+      "id": "cifar10-train-11926",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.99948
+    },
+    {
+      "id": "cifar10-train-12888",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.97225
+    },
+    {
+      "id": "cifar10-train-40360",
+      "reference": "horse",
+      "valid": true,
+      "pred": "bird",
+      "conf": 0.85954
+    },
+    {
+      "id": "cifar10-train-02700",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.54504
+    },
+    {
+      "id": "cifar10-train-40061",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.90566
+    },
+    {
+      "id": "cifar10-train-47382",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.99937
+    },
+    {
+      "id": "cifar10-train-14196",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.99974
+    },
+    {
+      "id": "cifar10-train-48679",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.99983
+    },
+    {
+      "id": "cifar10-train-24050",
+      "reference": "horse",
+      "valid": true,
+      "pred": "dog",
+      "conf": 0.85154
+    },
+    {
+      "id": "cifar10-train-18428",
+      "reference": "horse",
+      "valid": true,
+      "pred": "horse",
+      "conf": 0.99969
+    },
+    {
+      "id": "cifar10-train-07744",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.82844
+    },
+    {
+      "id": "cifar10-train-00811",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.75856
+    },
+    {
+      "id": "cifar10-train-12615",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.5055
+    },
+    {
+      "id": "cifar10-train-01141",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 1.0
+    },
+    {
+      "id": "cifar10-train-09617",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.96794
+    },
+    {
+      "id": "cifar10-train-03857",
+      "reference": "ship",
+      "valid": true,
+      "pred": "airplane",
+      "conf": 0.38974
+    },
+    {
+      "id": "cifar10-train-32532",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.99249
+    },
+    {
+      "id": "cifar10-train-02012",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.99532
+    },
+    {
+      "id": "cifar10-train-43855",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.98869
+    },
+    {
+      "id": "cifar10-train-34527",
+      "reference": "ship",
+      "valid": true,
+      "pred": "ship",
+      "conf": 0.98752
+    },
+    {
+      "id": "cifar10-train-26658",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.99972
+    },
+    {
+      "id": "cifar10-train-33281",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.99918
+    },
+    {
+      "id": "cifar10-train-43226",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.99921
+    },
+    {
+      "id": "cifar10-train-38018",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.96234
+    },
+    {
+      "id": "cifar10-train-34572",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.97131
+    },
+    {
+      "id": "cifar10-train-20518",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.99084
+    },
+    {
+      "id": "cifar10-train-42981",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.99969
+    },
+    {
+      "id": "cifar10-train-27733",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.96052
+    },
+    {
+      "id": "cifar10-train-00408",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.99894
+    },
+    {
+      "id": "cifar10-train-26585",
+      "reference": "truck",
+      "valid": true,
+      "pred": "truck",
+      "conf": 0.99892
+    }
+  ],
+  "acc_high": 1.0,
+  "acc_low": 0.6333333333333333,
+  "delta": 0.3666666666666667,
+  "share_errors_in_pairs": 0.36363636363636365,
+  "confirmed": false
+}
