@@ -1,0 +1,45 @@
+{
+  "mnist": {
+    "random": {
+      "auc_mean": 0.72519375,
+      "auc_std": 0.0046761278719684215,
+      "final_mean": 0.7981
+    },
+    "entropy": {
+      "auc_mean": 0.6775375,
+      "auc_std": 0.013177193840116338,
+      "final_mean": 0.755
+    },
+    "hybrid": {
+      "auc_mean": 0.717875,
+      "auc_std": 0.013691109683842267,
+      "final_mean": 0.7836000000000001
+    }
+  },
+  "budgets": [
+    20,
+    40,
+    60,
+    80,
+    100,
+    120,
+    140,
+    160,
+    180
+  ],
+  "batch_redundancy_first_round": {
+    "random": 9.06625780017438,
+    "entropy": 8.107828897656512
+  },
+  "entropy_minus_random_auc": {
+    "digits": -0.068888888888889,
+    "mnist": -0.047656249999999956
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}
