@@ -1,0 +1,33 @@
+{
+  "random": {
+    "auc": 0.861574074074074,
+    "final_accuracy": 0.9259259259259259,
+    "auc_minus_random_mean": 0.011435185185185048,
+    "final_minus_random_mean": 0.0125925925925926
+  },
+  "entropy": {
+    "auc": 0.78125,
+    "final_accuracy": 0.9259259259259259,
+    "auc_minus_random_mean": -0.068888888888889,
+    "final_minus_random_mean": 0.0125925925925926
+  },
+  "kcenter": {
+    "auc": 0.8993055555555557,
+    "final_accuracy": 0.9407407407407408,
+    "auc_minus_random_mean": 0.04916666666666669,
+    "final_minus_random_mean": 0.027407407407407436
+  },
+  "random_repeated": {
+    "auc_mean": 0.850138888888889,
+    "auc_std": 0.01130625320139463,
+    "final_mean": 0.9133333333333333,
+    "final_std": 0.010566920457546009,
+    "n_seeds": 10
+  },
+  "budget": {
+    "initial": 20,
+    "per_round": 20,
+    "rounds": 8,
+    "final_labeled": 180
+  }
+}
