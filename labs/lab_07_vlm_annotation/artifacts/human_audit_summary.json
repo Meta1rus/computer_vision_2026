@@ -1,0 +1,7 @@
+{
+  "n": 30,
+  "caption_correct": 0.8,
+  "caption_partial": 0.13333333333333333,
+  "caption_hallucination": 0.16666666666666666,
+  "class_agreement_expert_vs_vlm": 0.9333333333333333
+}
