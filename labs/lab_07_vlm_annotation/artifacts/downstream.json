@@ -1,0 +1,12 @@
+{
+  "n_train_images": 400,
+  "n_test": 200,
+  "classifier": "logreg on frozen ResNet18 features",
+  "manual_labels_all": 0.765,
+  "manual_labels_same_subset": 0.765,
+  "vlm_labels": 0.73,
+  "vlm_label_noise_on_train": 0.1175,
+  "n_vlm_valid_train": 400,
+  "audit_confirmed": true,
+  "audit_file": "artifacts/human_audit.jsonl"
+}
