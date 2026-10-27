@@ -1,0 +1,17 @@
+{
+  "classes": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "source": "CIFAR-10 (Krizhevsky, 2009), torchvision",
+  "train_size": 50000,
+  "test_size": 10000
+}
