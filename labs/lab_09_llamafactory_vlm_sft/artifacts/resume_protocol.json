@@ -1,0 +1,7 @@
+{
+  "selected_checkpoint": null,
+  "mode": "new",
+  "fingerprint": "9af40510b51c0948",
+  "rule": "max(int(N)) по checkpoint-N; наличие config_fingerprint.txt того же прогона",
+  "note": "Загрузка весов адаптера (adapter_model.safetensors) восстанавливает только параметры LoRA. resume_from_checkpoint дополнительно восстанавливает optimizer.pt (моменты AdamW), scheduler.pt, rng_state и trainer_state.json (global_step), поэтому траектория обучения продолжается без скачка lr и моментов."
+}

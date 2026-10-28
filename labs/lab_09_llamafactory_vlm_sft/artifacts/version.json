@@ -1,0 +1,11 @@
+{
+  "llamafactory": "0.9.5",
+  "llamafactory_source": "PyPI release llamafactory==0.9.5 (тег v0.9.5)",
+  "base_model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "base_model_revision": null,
+  "train_seconds": 13888.348311901093,
+  "global_step": 100,
+  "device": "mps",
+  "fast_dev_run": false,
+  "lf_env": {}
+}
