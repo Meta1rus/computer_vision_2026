@@ -18,7 +18,7 @@
 | 7 | [Автоматическая разметка изображений с помощью VLM](labs/lab_07_vlm_annotation) | выполнена: Qwen2.5-VL-3B — accuracy 0,935, подписи верны в 80 %, downstream −3,5 п. п. |
 | 8 | [Active learning и human-in-the-loop](labs/lab_08_active_learning) | выполнена: k-center AUC 0,899 против 0,850 у random |
 | 9 | [Fine-tuning VLM с помощью LLaMA-Factory](labs/lab_09_llamafactory_vlm_sft) | выполнена: QLoRA SFT — ID 0,828 → 0,891, OOD 0,578 → 0,719, general без изменений |
-| 10 | [Эффективный fine-tuning VLM с помощью Unsloth](labs/lab_10_unsloth_efficiency) | шаблон |
+| 10 | [Эффективный fine-tuning VLM с помощью Unsloth](labs/lab_10_unsloth_efficiency) | выполнена: Unsloth (MLX) в 4,8 раза быстрее LLaMA-Factory при том же качестве; rank 16 — ID 0,953 |
 | 11 | [Alignment VLM по предпочтениям](labs/lab_11_vlm_alignment) | шаблон |
 | 12 | [Генерация синтетического датасета для VLM](labs/lab_12_synthetic_vlm_data) | шаблон |
 | 13 | [Fine-tuning diffusion model](labs/lab_13_diffusion_lora) | шаблон |
@@ -40,6 +40,8 @@ uv pip install -r requirements.txt
 ```
 
 Работа 9 вызывает LLaMA-Factory из отдельного окружения — у него жёстче закреплены версии transformers/peft/trl: [`requirements-llamafactory.txt`](requirements-llamafactory.txt), CLI — `.venv-lf/bin/llamafactory-cli` (можно переопределить переменной `LLAMAFACTORY_CLI`).
+
+Работа 10 выполняется в отдельном окружении Unsloth, который на Apple Silicon работает через MLX: [`requirements-unsloth.txt`](requirements-unsloth.txt); ноутбук запускается ядром этого окружения (`.venv-unsloth`).
 
 ## Запуск
 
