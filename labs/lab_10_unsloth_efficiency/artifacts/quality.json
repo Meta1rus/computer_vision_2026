@@ -1,0 +1,38 @@
+{
+  "r8_a16": {
+    "id_test": {
+      "n": 64,
+      "exact_match": 0.90625,
+      "format_rate": 1.0
+    },
+    "ood_test": {
+      "n": 64,
+      "exact_match": 0.703125,
+      "format_rate": 1.0
+    },
+    "general_test": {
+      "n": 64,
+      "exact_match": 0.890625,
+      "format_rate": 1.0
+    },
+    "inference_seconds": 87.5033552646637
+  },
+  "r16_a16": {
+    "id_test": {
+      "n": 64,
+      "exact_match": 0.953125,
+      "format_rate": 1.0
+    },
+    "ood_test": {
+      "n": 64,
+      "exact_match": 0.703125,
+      "format_rate": 1.0
+    },
+    "general_test": {
+      "n": 64,
+      "exact_match": 0.90625,
+      "format_rate": 1.0
+    },
+    "inference_seconds": 86.69878101348877
+  }
+}
