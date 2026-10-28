@@ -1,0 +1,32 @@
+{
+  "metric": "exact match буквы (ответ должен состоять ровно из одной буквы)",
+  "splits": {
+    "id_test": {
+      "n": 64,
+      "base_em": 0.828125,
+      "sft_em": 0.890625,
+      "delta": 0.0625,
+      "base_format_rate": 0.90625,
+      "sft_format_rate": 1.0,
+      "majority_letter_baseline": 0.421875
+    },
+    "ood_test": {
+      "n": 64,
+      "base_em": 0.578125,
+      "sft_em": 0.71875,
+      "delta": 0.140625,
+      "base_format_rate": 0.984375,
+      "sft_format_rate": 1.0,
+      "majority_letter_baseline": 0.421875
+    },
+    "general_test": {
+      "n": 64,
+      "base_em": 0.875,
+      "sft_em": 0.875,
+      "delta": 0.0,
+      "base_format_rate": 1.0,
+      "sft_format_rate": 1.0,
+      "majority_letter_baseline": 0.328125
+    }
+  }
+}
