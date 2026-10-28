@@ -1,0 +1,36 @@
+{
+  "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "backend": "Unsloth 2026.10.8 (MLX 0.32.4), Apple GPU",
+  "device": "Apple M3 Max",
+  "memory_gb": 48,
+  "optimizer_steps": 100,
+  "per_device_batch": 1,
+  "grad_accumulation": 16,
+  "effective_batch": 16,
+  "examples_processed": 1600,
+  "lr": 0.0001,
+  "scheduler": "cosine, warmup 10 %",
+  "max_grad_norm": 1.0,
+  "seed": 42,
+  "ranks": {
+    "r8": {
+      "r": 8,
+      "alpha": 16
+    },
+    "r16": {
+      "r": 16,
+      "alpha": 32
+    }
+  },
+  "lora_targets": "все линейные слои LLM (attention + MLP), vision tower заморожен",
+  "quantization": "MLX 4-bit (affine, group 64) — аналог NF4 для Apple GPU",
+  "image_max_pixels": 401408,
+  "loss": "только токены ответа ассистента (train_on_responses_only), как в LLaMA-Factory работы 09",
+  "sizes": {
+    "train": 512,
+    "validation": 64,
+    "id_test": 64,
+    "ood_test": 64,
+    "general_test": 64
+  }
+}

@@ -1,0 +1,6 @@
+# копии токенизатора базовой модели Qwen2.5-VL, которые Unsloth и LLaMA-Factory сохраняют рядом с каждым адаптером
+artifacts/**/tokenizer.json
+artifacts/**/vocab.json
+artifacts/**/merges.txt
+# промежуточные каталоги trainer/ дублируют финальные адаптеры
+artifacts/**/trainer/
