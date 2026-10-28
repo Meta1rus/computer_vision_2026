@@ -1,0 +1,20 @@
+{
+  "validation": {
+    "acc16_100steps": {
+      "n": 64,
+      "exact_match": 0.796875,
+      "format_rate": 1.0
+    },
+    "acc8_200steps": {
+      "n": 64,
+      "exact_match": 0.8125,
+      "format_rate": 1.0
+    }
+  },
+  "seconds": {
+    "acc16": 648.4899101257324,
+    "acc8": 661.9242050647736
+  },
+  "confirmed": true,
+  "loss_acc8_last10": 0.049596655368804934
+}
