@@ -1,0 +1,43 @@
+{
+ "rank": 8,
+ "alpha": 16,
+ "optimizer_steps": 6,
+ "micro_batches": 96,
+ "loss_history": [
+  0.2820780277252197,
+  0.472237765789032,
+  0.5408410429954529,
+  0.2741914987564087,
+  0.3072875142097473,
+  0.17672735452651978
+ ],
+ "seconds": 41.59601306915283,
+ "peak_memory_gb": 5.887029186,
+ "process_peak_memory_gb": 13.116299008,
+ "samples_per_second": 2.307913497392196,
+ "trainer_metrics": {
+  "train_loss": 0.3422272006670634,
+  "train_runtime": 40.34468862500216,
+  "train_steps": 6,
+  "total_train_steps": 6,
+  "trained_tokens": 192,
+  "train_samples_per_second": 2.3794953752724584,
+  "train_tokens_per_second": 4.758990750544917,
+  "compile_enabled": false,
+  "compile_support_state": "supported_verified",
+  "compile_reason": "compile enabled",
+  "compile_policy_mode": "best_effort",
+  "compile_scope": "none",
+  "patch_mode": "patched",
+  "base_quantized_source": "runtime",
+  "distributed_local_hostname": "MacBook-Pro-Filipp.local",
+  "distributed_train_runtime_max": 40.34468862500216,
+  "distributed_train_runtime_min": 40.34468862500216,
+  "distributed_peak_memory_gb": 13.116299008,
+  "compile_fallback": false,
+  "compile_fallback_reason": "",
+  "distributed_world_size": 1,
+  "distributed_rank": 0,
+  "distributed_is_main_process": true
+ }
+}

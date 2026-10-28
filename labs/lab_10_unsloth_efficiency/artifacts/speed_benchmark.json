@@ -1,0 +1,44 @@
+{
+  "protocol": {
+    "examples": 96,
+    "optimizer_steps": 6,
+    "grad_accumulation": 16,
+    "lora": "rank 8, alpha 16, все линейные слои LLM",
+    "order": "сначала LLaMA-Factory, пауза 60 с, затем Unsloth; других задач на GPU нет",
+    "timer": "от on_train_begin до конца каждого optimizer step, с синхронизацией GPU; загрузка модели и данных не входит"
+  },
+  "llamafactory": {
+    "step_seconds": [
+      32.81,
+      34.28,
+      33.71,
+      33.97,
+      34.01,
+      35.05
+    ],
+    "total_seconds": 203.82704766700044,
+    "median_step_seconds_without_first": 34.00929354199616,
+    "peak_mps_allocated_gb": 3.273952768,
+    "peak_mps_driver_gb": 7.023837184,
+    "memory_note": "пик опрашивается каждые 50 мс (torch.mps), короткие всплески могут быть пропущены",
+    "process_seconds_with_loading": 219.85657715797424
+  },
+  "unsloth": {
+    "step_seconds": [
+      6.98,
+      6.67,
+      7.19,
+      7.04,
+      7.22,
+      5.25
+    ],
+    "total_seconds": 40.34750966601132,
+    "median_step_seconds_without_first": 7.042996958000003,
+    "peak_memory_gb": 5.887029186,
+    "memory_note": "пик MLX за прогон (веса модели + обучение) за вычетом памяти, занятой до загрузки модели"
+  },
+  "ratio_llamafactory_over_unsloth": {
+    "total": 5.051787566425792,
+    "median_step": 4.82880991498451
+  }
+}

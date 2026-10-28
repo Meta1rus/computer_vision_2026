@@ -1,0 +1,50 @@
+{
+  "unsloth": {
+    "r8_a16": {
+      "id_em": 0.90625,
+      "ood_em": 0.703125,
+      "general_em": 0.890625,
+      "train_seconds": 648.4899101257324,
+      "peak_memory_gb": 5.886986646
+    },
+    "r16_a16": {
+      "id_em": 0.953125,
+      "ood_em": 0.703125,
+      "general_em": 0.90625,
+      "train_seconds": 658.9590580463409,
+      "peak_memory_gb": 6.082394648
+    }
+  },
+  "llamafactory_lab09": {
+    "rank": 8,
+    "alpha": 16,
+    "id_em": 0.890625,
+    "ood_em": 0.71875,
+    "general_em": 0.875,
+    "base_id_em": 0.828125,
+    "train_seconds_lab09": 13888.348311901093,
+    "train_seconds_note": "для сравнения скорости не используется: GPU делили другие задачи, плюс eval и сохранения каждые 20 шагов"
+  },
+  "comparability": {
+    "same_hardware": true,
+    "same_steps_and_effective_batch": true,
+    "same_trainable_modules": "LoRA на всех линейных слоях LLM в обоих случаях",
+    "differences": [
+      "квантование: bitsandbytes NF4 (PyTorch MPS) против MLX 4-bit affine",
+      "движок: PyTorch MPS + gradient checkpointing (LLaMA-Factory) против MLX (Unsloth)"
+    ],
+    "speedup_claim": "скорость сравнивается только по speed_benchmark.json: одна машина, свободный GPU, одни и те же 96 примеров, 6 шагов × 16, одинаковые обучаемые модули; это сравнение двух стеков целиком, а не только оптимизаций Unsloth"
+  },
+  "speed_benchmark": {
+    "llamafactory_median_step_s": 34.00929354199616,
+    "unsloth_median_step_s": 7.042996958000003,
+    "ratio_llamafactory_over_unsloth": {
+      "total": 5.051787566425792,
+      "median_step": 4.82880991498451
+    },
+    "peak_memory_gb": {
+      "llamafactory_mps_sampled": 3.273952768,
+      "unsloth_mlx": 5.887029186
+    }
+  }
+}
