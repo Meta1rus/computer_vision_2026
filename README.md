@@ -17,7 +17,7 @@
 | 6 | [Построение и оценка VLM-пайплайна](labs/lab_06_vlm_evaluation) | выполнена: SmolVLM2 NF4 — документы 4/5 верно, подсчёт 1/5; абляция 8 вариантов |
 | 7 | [Автоматическая разметка изображений с помощью VLM](labs/lab_07_vlm_annotation) | выполнена: Qwen2.5-VL-3B — accuracy 0,935, подписи верны в 80 %, downstream −3,5 п. п. |
 | 8 | [Active learning и human-in-the-loop](labs/lab_08_active_learning) | выполнена: k-center AUC 0,899 против 0,850 у random |
-| 9 | [Fine-tuning VLM с помощью LLaMA-Factory](labs/lab_09_llamafactory_vlm_sft) | шаблон |
+| 9 | [Fine-tuning VLM с помощью LLaMA-Factory](labs/lab_09_llamafactory_vlm_sft) | выполнена: QLoRA SFT — ID 0,828 → 0,891, OOD 0,578 → 0,719, general без изменений |
 | 10 | [Эффективный fine-tuning VLM с помощью Unsloth](labs/lab_10_unsloth_efficiency) | шаблон |
 | 11 | [Alignment VLM по предпочтениям](labs/lab_11_vlm_alignment) | шаблон |
 | 12 | [Генерация синтетического датасета для VLM](labs/lab_12_synthetic_vlm_data) | шаблон |
@@ -38,6 +38,8 @@ uv venv --python 3.11 .venv
 source .venv/bin/activate
 uv pip install -r requirements.txt
 ```
+
+Работа 9 вызывает LLaMA-Factory из отдельного окружения — у него жёстче закреплены версии transformers/peft/trl: [`requirements-llamafactory.txt`](requirements-llamafactory.txt), CLI — `.venv-lf/bin/llamafactory-cli` (можно переопределить переменной `LLAMAFACTORY_CLI`).
 
 ## Запуск
 
