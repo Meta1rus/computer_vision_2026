@@ -1,0 +1,149 @@
+{
+  "license": "MIT (code license, lupantech/ScienceQA)",
+  "source": "https://huggingface.co/datasets/derek-thomas/ScienceQA/tree/f18b0a70359ebfb41f658fd564208d0355b013f4",
+  "splits": {
+    "train": {
+      "n": 512,
+      "answer_letters": {
+        "A": 209,
+        "B": 230,
+        "C": 72,
+        "D": 1
+      },
+      "majority_letter_share": 0.44921875,
+      "n_choices": {
+        "2": 294,
+        "3": 204,
+        "4": 14
+      },
+      "grades": [
+        "grade2",
+        "grade3",
+        "grade4",
+        "grade5",
+        "grade6"
+      ],
+      "subjects": [
+        "natural science"
+      ],
+      "median_image_wh": [
+        252,
+        202
+      ]
+    },
+    "validation": {
+      "n": 64,
+      "answer_letters": {
+        "A": 24,
+        "B": 32,
+        "C": 8
+      },
+      "majority_letter_share": 0.5,
+      "n_choices": {
+        "2": 41,
+        "3": 23
+      },
+      "grades": [
+        "grade2",
+        "grade3",
+        "grade4",
+        "grade5",
+        "grade6"
+      ],
+      "subjects": [
+        "natural science"
+      ],
+      "median_image_wh": [
+        252,
+        202
+      ]
+    },
+    "id_test": {
+      "n": 64,
+      "answer_letters": {
+        "A": 26,
+        "B": 27,
+        "C": 11
+      },
+      "majority_letter_share": 0.421875,
+      "n_choices": {
+        "2": 36,
+        "3": 27,
+        "4": 1
+      },
+      "grades": [
+        "grade2",
+        "grade3",
+        "grade4",
+        "grade5",
+        "grade6"
+      ],
+      "subjects": [
+        "natural science"
+      ],
+      "median_image_wh": [
+        334,
+        208
+      ]
+    },
+    "ood_test": {
+      "n": 64,
+      "answer_letters": {
+        "A": 25,
+        "B": 27,
+        "C": 9,
+        "D": 3
+      },
+      "majority_letter_share": 0.421875,
+      "n_choices": {
+        "2": 21,
+        "3": 35,
+        "4": 1,
+        "5": 7
+      },
+      "grades": [
+        "grade7",
+        "grade8"
+      ],
+      "subjects": [
+        "natural science"
+      ],
+      "median_image_wh": [
+        352,
+        238
+      ]
+    },
+    "general_test": {
+      "n": 64,
+      "answer_letters": {
+        "A": 13,
+        "B": 21,
+        "C": 17,
+        "D": 13
+      },
+      "majority_letter_share": 0.328125,
+      "n_choices": {
+        "3": 2,
+        "4": 62
+      },
+      "grades": [
+        "grade12",
+        "grade2",
+        "grade3",
+        "grade4",
+        "grade5",
+        "grade6",
+        "grade7",
+        "grade8"
+      ],
+      "subjects": [
+        "language science",
+        "social science"
+      ],
+      "median_image_wh": [
+        750,
+        429
+      ]
+    }
+  }
+}

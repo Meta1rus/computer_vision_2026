@@ -1,0 +1,4 @@
+# копии токенизатора базовой модели Qwen2.5-VL, которые LLaMA-Factory кладёт рядом с адаптером; совпадают с файлами модели на Hugging Face
+artifacts/lab9_adapter/tokenizer.json
+artifacts/lab9_adapter/vocab.json
+artifacts/lab9_adapter/merges.txt
