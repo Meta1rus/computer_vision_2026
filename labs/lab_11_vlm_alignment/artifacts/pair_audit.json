@@ -1,0 +1,50 @@
+{
+  "n_train": 512,
+  "n_blind_test": 64,
+  "overlap_ids": 0,
+  "overlap_image_hashes": 0,
+  "error_types": {
+    "wrong_option_adjacent": 576
+  },
+  "chosen_longer_share": 0.0,
+  "chosen_shorter_share": 0.0,
+  "chosen_letter_distribution": {
+    "A": 209,
+    "C": 72,
+    "B": 230,
+    "D": 1
+  },
+  "rejected_letter_distribution": {
+    "B": 209,
+    "A": 232,
+    "C": 68,
+    "D": 3
+  },
+  "pair_letter_patterns_top": [
+    [
+      "A>B",
+      209
+    ],
+    [
+      "B>A",
+      162
+    ],
+    [
+      "C>A",
+      69
+    ],
+    [
+      "B>C",
+      68
+    ],
+    [
+      "C>D",
+      3
+    ],
+    [
+      "D>A",
+      1
+    ]
+  ],
+  "note": "chosen и rejected — одиночные буквы одинаковой длины, длина не может быть скрытым признаком правильности. Но rejected всегда «следующий вариант», а A чаще верная буква — возможен позиционный shortcut, см. бонус."
+}

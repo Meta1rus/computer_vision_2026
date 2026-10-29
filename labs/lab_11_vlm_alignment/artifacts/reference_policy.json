@@ -1,0 +1,8 @@
+{
+  "source": "адаптер работы 09 (../lab_09_llamafactory_vlm_sft/artifacts/lab9_adapter) — reference и стартовая политика совпадают",
+  "uses_lab09_sft": true,
+  "base_model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "quantization": "bnb nf4, compute fp16",
+  "trainable_params": 14966784,
+  "reference_trainable_params": 0
+}
