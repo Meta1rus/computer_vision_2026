@@ -1,0 +1,12 @@
+{
+  "beta": 0.1,
+  "optimizer": "AdamW",
+  "lr": 5e-06,
+  "grad_accumulation": 8,
+  "optimizer_steps": 40,
+  "batch_pairs": 1,
+  "pairs_used": 320,
+  "reference": "тот же адаптер, заморожен, считается под torch.no_grad()",
+  "gradient_checkpointing": true,
+  "loss": "-log σ(β[(log π_θ(y_w) − log π_ref(y_w)) − (log π_θ(y_l) − log π_ref(y_l))])"
+}
