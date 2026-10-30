@@ -1,0 +1,25 @@
+{
+  "objective_em": {
+    "foundation": 0.828125,
+    "reference": 0.890625,
+    "aligned": 0.90625
+  },
+  "n_judged": 64,
+  "n_total": 64,
+  "complete": true,
+  "win_rate": {
+    "aligned_vs_reference": 0.5078125,
+    "aligned_vs_foundation": 0.5625
+  },
+  "hallucination_rate": {
+    "foundation": 0.015625,
+    "reference": 0.0,
+    "aligned": 0.0
+  },
+  "format_compliance": {
+    "foundation": 0.90625,
+    "reference": 1.0,
+    "aligned": 1.0
+  },
+  "limitations": "предпочтения выведены из эталонных букв ScienceQA: улучшение означает лишь, что модель чаще выбирает верный вариант на этом распределении, и не говорит о безопасности или общей полезности ответов"
+}
