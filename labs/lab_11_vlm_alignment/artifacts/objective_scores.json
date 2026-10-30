@@ -1,0 +1,18 @@
+{
+  "foundation": {
+    "n": 64,
+    "exact_match": 0.828125,
+    "format_single_letter": 0.90625
+  },
+  "reference": {
+    "n": 64,
+    "exact_match": 0.890625,
+    "format_single_letter": 1.0
+  },
+  "aligned": {
+    "n": 64,
+    "exact_match": 0.90625,
+    "format_single_letter": 1.0
+  },
+  "note": "EM по эталонной букве — автоматическая метрика, а не человеческий win rate"
+}
