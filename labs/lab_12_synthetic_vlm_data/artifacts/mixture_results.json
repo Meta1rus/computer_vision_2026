@@ -1,0 +1,35 @@
+{
+  "100/0": {
+    "n_real": 24,
+    "n_syn": 0,
+    "accuracy_mean": 0.33333333333333326,
+    "accuracy_std": 5.551115123125783e-17,
+    "n_test": 12,
+    "seeds": 20
+  },
+  "75/25": {
+    "n_real": 18,
+    "n_syn": 6,
+    "accuracy_mean": 0.3625,
+    "accuracy_std": 0.0710780087884666,
+    "n_test": 12,
+    "seeds": 20
+  },
+  "50/50": {
+    "n_real": 12,
+    "n_syn": 12,
+    "accuracy_mean": 0.4208333333333334,
+    "accuracy_std": 0.11016086722001905,
+    "n_test": 12,
+    "seeds": 20
+  },
+  "25/75": {
+    "n_real": 6,
+    "n_syn": 18,
+    "accuracy_mean": 0.4541666666666666,
+    "accuracy_std": 0.17965050947758418,
+    "n_test": 12,
+    "seeds": 20
+  },
+  "majority_baseline": 0.5
+}
