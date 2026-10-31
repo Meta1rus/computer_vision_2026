@@ -1,0 +1,65 @@
+{
+  "baseline": {
+    "clip_text_sim": 0.3402217924594879,
+    "subject_sim_to_train_centroid": 0.6015582084655762,
+    "diversity_1-cos_same_prompt": 0.28077691545089084,
+    "nearest_train_sim_mean": 0.6086030602455139,
+    "nearest_train_sim_max": 0.7917903661727905,
+    "share_near_copy_gt_0.95": 0.0,
+    "seconds_per_image": 30.16709056165483
+  },
+  "r4_lr1e-4@200": {
+    "clip_text_sim": 0.34532344341278076,
+    "subject_sim_to_train_centroid": 0.6063957214355469,
+    "diversity_1-cos_same_prompt": 0.26599232107400894,
+    "nearest_train_sim_mean": 0.6063981652259827,
+    "nearest_train_sim_max": 0.7830274105072021,
+    "share_near_copy_gt_0.95": 0.0,
+    "seconds_per_image": 17.595897555351257
+  },
+  "r4_lr1e-4@400": {
+    "clip_text_sim": 0.3386692404747009,
+    "subject_sim_to_train_centroid": 0.6071212291717529,
+    "diversity_1-cos_same_prompt": 0.26952370007832843,
+    "nearest_train_sim_mean": 0.6144474744796753,
+    "nearest_train_sim_max": 0.7865042090415955,
+    "share_near_copy_gt_0.95": 0.0,
+    "seconds_per_image": 17.754415843221878
+  },
+  "r16_lr1e-4@200": {
+    "clip_text_sim": 0.3513714671134949,
+    "subject_sim_to_train_centroid": 0.6065852642059326,
+    "diversity_1-cos_same_prompt": 0.2527070591847102,
+    "nearest_train_sim_mean": 0.6066203713417053,
+    "nearest_train_sim_max": 0.79208904504776,
+    "share_near_copy_gt_0.95": 0.0,
+    "seconds_per_image": 17.635993825064766
+  },
+  "r16_lr1e-4@400": {
+    "clip_text_sim": 0.3541904091835022,
+    "subject_sim_to_train_centroid": 0.630346417427063,
+    "diversity_1-cos_same_prompt": 0.2627664829293887,
+    "nearest_train_sim_mean": 0.6330562233924866,
+    "nearest_train_sim_max": 0.7828559875488281,
+    "share_near_copy_gt_0.95": 0.0,
+    "seconds_per_image": 20.11477800210317
+  },
+  "r16_lr5e-4@200": {
+    "clip_text_sim": 0.34137529134750366,
+    "subject_sim_to_train_centroid": 0.6254884600639343,
+    "diversity_1-cos_same_prompt": 0.2931325361132622,
+    "nearest_train_sim_mean": 0.6354027986526489,
+    "nearest_train_sim_max": 0.7786325812339783,
+    "share_near_copy_gt_0.95": 0.0,
+    "seconds_per_image": 22.173220343059963
+  },
+  "r16_lr5e-4@400": {
+    "clip_text_sim": 0.35200098156929016,
+    "subject_sim_to_train_centroid": 0.6588736176490784,
+    "diversity_1-cos_same_prompt": 0.2651387353738149,
+    "nearest_train_sim_mean": 0.6650287508964539,
+    "nearest_train_sim_max": 0.8123822212219238,
+    "share_near_copy_gt_0.95": 0.0,
+    "seconds_per_image": 21.009471787346733
+  }
+}
