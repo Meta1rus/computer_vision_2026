@@ -1,0 +1,1216 @@
+{
+  "canny": {
+    "binarize_threshold": 127,
+    "blur_sigma": 2,
+    "low": 50,
+    "high": 150
+  },
+  "resolution": 512,
+  "edge_pixels": {
+    "min": 776,
+    "median": 1821.5,
+    "max": 2701
+  },
+  "items": [
+    {
+      "control_path": "artifacts/controls/train00869_class0.png",
+      "source_index": 869,
+      "label": 0,
+      "seed": 42
+    },
+    {
+      "control_path": "artifacts/controls/train01678_class0.png",
+      "source_index": 1678,
+      "label": 0,
+      "seed": 43
+    },
+    {
+      "control_path": "artifacts/controls/train05612_class0.png",
+      "source_index": 5612,
+      "label": 0,
+      "seed": 44
+    },
+    {
+      "control_path": "artifacts/controls/train08028_class0.png",
+      "source_index": 8028,
+      "label": 0,
+      "seed": 45
+    },
+    {
+      "control_path": "artifacts/controls/train12662_class0.png",
+      "source_index": 12662,
+      "label": 0,
+      "seed": 46
+    },
+    {
+      "control_path": "artifacts/controls/train16523_class0.png",
+      "source_index": 16523,
+      "label": 0,
+      "seed": 47
+    },
+    {
+      "control_path": "artifacts/controls/train23297_class0.png",
+      "source_index": 23297,
+      "label": 0,
+      "seed": 48
+    },
+    {
+      "control_path": "artifacts/controls/train23499_class0.png",
+      "source_index": 23499,
+      "label": 0,
+      "seed": 49
+    },
+    {
+      "control_path": "artifacts/controls/train27633_class0.png",
+      "source_index": 27633,
+      "label": 0,
+      "seed": 50
+    },
+    {
+      "control_path": "artifacts/controls/train27659_class0.png",
+      "source_index": 27659,
+      "label": 0,
+      "seed": 51
+    },
+    {
+      "control_path": "artifacts/controls/train28627_class0.png",
+      "source_index": 28627,
+      "label": 0,
+      "seed": 52
+    },
+    {
+      "control_path": "artifacts/controls/train29055_class0.png",
+      "source_index": 29055,
+      "label": 0,
+      "seed": 53
+    },
+    {
+      "control_path": "artifacts/controls/train30439_class0.png",
+      "source_index": 30439,
+      "label": 0,
+      "seed": 54
+    },
+    {
+      "control_path": "artifacts/controls/train30891_class0.png",
+      "source_index": 30891,
+      "label": 0,
+      "seed": 55
+    },
+    {
+      "control_path": "artifacts/controls/train31502_class0.png",
+      "source_index": 31502,
+      "label": 0,
+      "seed": 56
+    },
+    {
+      "control_path": "artifacts/controls/train33136_class0.png",
+      "source_index": 33136,
+      "label": 0,
+      "seed": 57
+    },
+    {
+      "control_path": "artifacts/controls/train34714_class0.png",
+      "source_index": 34714,
+      "label": 0,
+      "seed": 58
+    },
+    {
+      "control_path": "artifacts/controls/train51148_class0.png",
+      "source_index": 51148,
+      "label": 0,
+      "seed": 59
+    },
+    {
+      "control_path": "artifacts/controls/train51774_class0.png",
+      "source_index": 51774,
+      "label": 0,
+      "seed": 60
+    },
+    {
+      "control_path": "artifacts/controls/train54502_class0.png",
+      "source_index": 54502,
+      "label": 0,
+      "seed": 61
+    },
+    {
+      "control_path": "artifacts/controls/train03306_class1.png",
+      "source_index": 3306,
+      "label": 1,
+      "seed": 1042
+    },
+    {
+      "control_path": "artifacts/controls/train06443_class1.png",
+      "source_index": 6443,
+      "label": 1,
+      "seed": 1043
+    },
+    {
+      "control_path": "artifacts/controls/train06682_class1.png",
+      "source_index": 6682,
+      "label": 1,
+      "seed": 1044
+    },
+    {
+      "control_path": "artifacts/controls/train07275_class1.png",
+      "source_index": 7275,
+      "label": 1,
+      "seed": 1045
+    },
+    {
+      "control_path": "artifacts/controls/train13113_class1.png",
+      "source_index": 13113,
+      "label": 1,
+      "seed": 1046
+    },
+    {
+      "control_path": "artifacts/controls/train15435_class1.png",
+      "source_index": 15435,
+      "label": 1,
+      "seed": 1047
+    },
+    {
+      "control_path": "artifacts/controls/train17695_class1.png",
+      "source_index": 17695,
+      "label": 1,
+      "seed": 1048
+    },
+    {
+      "control_path": "artifacts/controls/train17900_class1.png",
+      "source_index": 17900,
+      "label": 1,
+      "seed": 1049
+    },
+    {
+      "control_path": "artifacts/controls/train20163_class1.png",
+      "source_index": 20163,
+      "label": 1,
+      "seed": 1050
+    },
+    {
+      "control_path": "artifacts/controls/train22926_class1.png",
+      "source_index": 22926,
+      "label": 1,
+      "seed": 1051
+    },
+    {
+      "control_path": "artifacts/controls/train25719_class1.png",
+      "source_index": 25719,
+      "label": 1,
+      "seed": 1052
+    },
+    {
+      "control_path": "artifacts/controls/train25842_class1.png",
+      "source_index": 25842,
+      "label": 1,
+      "seed": 1053
+    },
+    {
+      "control_path": "artifacts/controls/train34158_class1.png",
+      "source_index": 34158,
+      "label": 1,
+      "seed": 1054
+    },
+    {
+      "control_path": "artifacts/controls/train34241_class1.png",
+      "source_index": 34241,
+      "label": 1,
+      "seed": 1055
+    },
+    {
+      "control_path": "artifacts/controls/train36517_class1.png",
+      "source_index": 36517,
+      "label": 1,
+      "seed": 1056
+    },
+    {
+      "control_path": "artifacts/controls/train42546_class1.png",
+      "source_index": 42546,
+      "label": 1,
+      "seed": 1057
+    },
+    {
+      "control_path": "artifacts/controls/train48027_class1.png",
+      "source_index": 48027,
+      "label": 1,
+      "seed": 1058
+    },
+    {
+      "control_path": "artifacts/controls/train49899_class1.png",
+      "source_index": 49899,
+      "label": 1,
+      "seed": 1059
+    },
+    {
+      "control_path": "artifacts/controls/train58719_class1.png",
+      "source_index": 58719,
+      "label": 1,
+      "seed": 1060
+    },
+    {
+      "control_path": "artifacts/controls/train59820_class1.png",
+      "source_index": 59820,
+      "label": 1,
+      "seed": 1061
+    },
+    {
+      "control_path": "artifacts/controls/train02518_class2.png",
+      "source_index": 2518,
+      "label": 2,
+      "seed": 2042
+    },
+    {
+      "control_path": "artifacts/controls/train13019_class2.png",
+      "source_index": 13019,
+      "label": 2,
+      "seed": 2043
+    },
+    {
+      "control_path": "artifacts/controls/train14230_class2.png",
+      "source_index": 14230,
+      "label": 2,
+      "seed": 2044
+    },
+    {
+      "control_path": "artifacts/controls/train18395_class2.png",
+      "source_index": 18395,
+      "label": 2,
+      "seed": 2045
+    },
+    {
+      "control_path": "artifacts/controls/train21557_class2.png",
+      "source_index": 21557,
+      "label": 2,
+      "seed": 2046
+    },
+    {
+      "control_path": "artifacts/controls/train22922_class2.png",
+      "source_index": 22922,
+      "label": 2,
+      "seed": 2047
+    },
+    {
+      "control_path": "artifacts/controls/train33672_class2.png",
+      "source_index": 33672,
+      "label": 2,
+      "seed": 2048
+    },
+    {
+      "control_path": "artifacts/controls/train34532_class2.png",
+      "source_index": 34532,
+      "label": 2,
+      "seed": 2049
+    },
+    {
+      "control_path": "artifacts/controls/train34606_class2.png",
+      "source_index": 34606,
+      "label": 2,
+      "seed": 2050
+    },
+    {
+      "control_path": "artifacts/controls/train35198_class2.png",
+      "source_index": 35198,
+      "label": 2,
+      "seed": 2051
+    },
+    {
+      "control_path": "artifacts/controls/train37743_class2.png",
+      "source_index": 37743,
+      "label": 2,
+      "seed": 2052
+    },
+    {
+      "control_path": "artifacts/controls/train42115_class2.png",
+      "source_index": 42115,
+      "label": 2,
+      "seed": 2053
+    },
+    {
+      "control_path": "artifacts/controls/train47839_class2.png",
+      "source_index": 47839,
+      "label": 2,
+      "seed": 2054
+    },
+    {
+      "control_path": "artifacts/controls/train49642_class2.png",
+      "source_index": 49642,
+      "label": 2,
+      "seed": 2055
+    },
+    {
+      "control_path": "artifacts/controls/train50543_class2.png",
+      "source_index": 50543,
+      "label": 2,
+      "seed": 2056
+    },
+    {
+      "control_path": "artifacts/controls/train52251_class2.png",
+      "source_index": 52251,
+      "label": 2,
+      "seed": 2057
+    },
+    {
+      "control_path": "artifacts/controls/train53430_class2.png",
+      "source_index": 53430,
+      "label": 2,
+      "seed": 2058
+    },
+    {
+      "control_path": "artifacts/controls/train54125_class2.png",
+      "source_index": 54125,
+      "label": 2,
+      "seed": 2059
+    },
+    {
+      "control_path": "artifacts/controls/train55429_class2.png",
+      "source_index": 55429,
+      "label": 2,
+      "seed": 2060
+    },
+    {
+      "control_path": "artifacts/controls/train59355_class2.png",
+      "source_index": 59355,
+      "label": 2,
+      "seed": 2061
+    },
+    {
+      "control_path": "artifacts/controls/train14025_class3.png",
+      "source_index": 14025,
+      "label": 3,
+      "seed": 3042
+    },
+    {
+      "control_path": "artifacts/controls/train14786_class3.png",
+      "source_index": 14786,
+      "label": 3,
+      "seed": 3043
+    },
+    {
+      "control_path": "artifacts/controls/train17712_class3.png",
+      "source_index": 17712,
+      "label": 3,
+      "seed": 3044
+    },
+    {
+      "control_path": "artifacts/controls/train26209_class3.png",
+      "source_index": 26209,
+      "label": 3,
+      "seed": 3045
+    },
+    {
+      "control_path": "artifacts/controls/train28936_class3.png",
+      "source_index": 28936,
+      "label": 3,
+      "seed": 3046
+    },
+    {
+      "control_path": "artifacts/controls/train30962_class3.png",
+      "source_index": 30962,
+      "label": 3,
+      "seed": 3047
+    },
+    {
+      "control_path": "artifacts/controls/train32563_class3.png",
+      "source_index": 32563,
+      "label": 3,
+      "seed": 3048
+    },
+    {
+      "control_path": "artifacts/controls/train32610_class3.png",
+      "source_index": 32610,
+      "label": 3,
+      "seed": 3049
+    },
+    {
+      "control_path": "artifacts/controls/train33357_class3.png",
+      "source_index": 33357,
+      "label": 3,
+      "seed": 3050
+    },
+    {
+      "control_path": "artifacts/controls/train35898_class3.png",
+      "source_index": 35898,
+      "label": 3,
+      "seed": 3051
+    },
+    {
+      "control_path": "artifacts/controls/train36957_class3.png",
+      "source_index": 36957,
+      "label": 3,
+      "seed": 3052
+    },
+    {
+      "control_path": "artifacts/controls/train37643_class3.png",
+      "source_index": 37643,
+      "label": 3,
+      "seed": 3053
+    },
+    {
+      "control_path": "artifacts/controls/train38066_class3.png",
+      "source_index": 38066,
+      "label": 3,
+      "seed": 3054
+    },
+    {
+      "control_path": "artifacts/controls/train47901_class3.png",
+      "source_index": 47901,
+      "label": 3,
+      "seed": 3055
+    },
+    {
+      "control_path": "artifacts/controls/train51428_class3.png",
+      "source_index": 51428,
+      "label": 3,
+      "seed": 3056
+    },
+    {
+      "control_path": "artifacts/controls/train52164_class3.png",
+      "source_index": 52164,
+      "label": 3,
+      "seed": 3057
+    },
+    {
+      "control_path": "artifacts/controls/train54013_class3.png",
+      "source_index": 54013,
+      "label": 3,
+      "seed": 3058
+    },
+    {
+      "control_path": "artifacts/controls/train54735_class3.png",
+      "source_index": 54735,
+      "label": 3,
+      "seed": 3059
+    },
+    {
+      "control_path": "artifacts/controls/train57495_class3.png",
+      "source_index": 57495,
+      "label": 3,
+      "seed": 3060
+    },
+    {
+      "control_path": "artifacts/controls/train58760_class3.png",
+      "source_index": 58760,
+      "label": 3,
+      "seed": 3061
+    },
+    {
+      "control_path": "artifacts/controls/train00222_class4.png",
+      "source_index": 222,
+      "label": 4,
+      "seed": 4042
+    },
+    {
+      "control_path": "artifacts/controls/train01693_class4.png",
+      "source_index": 1693,
+      "label": 4,
+      "seed": 4043
+    },
+    {
+      "control_path": "artifacts/controls/train09741_class4.png",
+      "source_index": 9741,
+      "label": 4,
+      "seed": 4044
+    },
+    {
+      "control_path": "artifacts/controls/train11153_class4.png",
+      "source_index": 11153,
+      "label": 4,
+      "seed": 4045
+    },
+    {
+      "control_path": "artifacts/controls/train11547_class4.png",
+      "source_index": 11547,
+      "label": 4,
+      "seed": 4046
+    },
+    {
+      "control_path": "artifacts/controls/train20484_class4.png",
+      "source_index": 20484,
+      "label": 4,
+      "seed": 4047
+    },
+    {
+      "control_path": "artifacts/controls/train26207_class4.png",
+      "source_index": 26207,
+      "label": 4,
+      "seed": 4048
+    },
+    {
+      "control_path": "artifacts/controls/train26798_class4.png",
+      "source_index": 26798,
+      "label": 4,
+      "seed": 4049
+    },
+    {
+      "control_path": "artifacts/controls/train30792_class4.png",
+      "source_index": 30792,
+      "label": 4,
+      "seed": 4050
+    },
+    {
+      "control_path": "artifacts/controls/train33064_class4.png",
+      "source_index": 33064,
+      "label": 4,
+      "seed": 4051
+    },
+    {
+      "control_path": "artifacts/controls/train33925_class4.png",
+      "source_index": 33925,
+      "label": 4,
+      "seed": 4052
+    },
+    {
+      "control_path": "artifacts/controls/train34784_class4.png",
+      "source_index": 34784,
+      "label": 4,
+      "seed": 4053
+    },
+    {
+      "control_path": "artifacts/controls/train38622_class4.png",
+      "source_index": 38622,
+      "label": 4,
+      "seed": 4054
+    },
+    {
+      "control_path": "artifacts/controls/train38717_class4.png",
+      "source_index": 38717,
+      "label": 4,
+      "seed": 4055
+    },
+    {
+      "control_path": "artifacts/controls/train41426_class4.png",
+      "source_index": 41426,
+      "label": 4,
+      "seed": 4056
+    },
+    {
+      "control_path": "artifacts/controls/train43947_class4.png",
+      "source_index": 43947,
+      "label": 4,
+      "seed": 4057
+    },
+    {
+      "control_path": "artifacts/controls/train46033_class4.png",
+      "source_index": 46033,
+      "label": 4,
+      "seed": 4058
+    },
+    {
+      "control_path": "artifacts/controls/train55258_class4.png",
+      "source_index": 55258,
+      "label": 4,
+      "seed": 4059
+    },
+    {
+      "control_path": "artifacts/controls/train57538_class4.png",
+      "source_index": 57538,
+      "label": 4,
+      "seed": 4060
+    },
+    {
+      "control_path": "artifacts/controls/train57892_class4.png",
+      "source_index": 57892,
+      "label": 4,
+      "seed": 4061
+    },
+    {
+      "control_path": "artifacts/controls/train02999_class5.png",
+      "source_index": 2999,
+      "label": 5,
+      "seed": 5042
+    },
+    {
+      "control_path": "artifacts/controls/train03580_class5.png",
+      "source_index": 3580,
+      "label": 5,
+      "seed": 5043
+    },
+    {
+      "control_path": "artifacts/controls/train09326_class5.png",
+      "source_index": 9326,
+      "label": 5,
+      "seed": 5044
+    },
+    {
+      "control_path": "artifacts/controls/train13800_class5.png",
+      "source_index": 13800,
+      "label": 5,
+      "seed": 5045
+    },
+    {
+      "control_path": "artifacts/controls/train16745_class5.png",
+      "source_index": 16745,
+      "label": 5,
+      "seed": 5046
+    },
+    {
+      "control_path": "artifacts/controls/train19659_class5.png",
+      "source_index": 19659,
+      "label": 5,
+      "seed": 5047
+    },
+    {
+      "control_path": "artifacts/controls/train22918_class5.png",
+      "source_index": 22918,
+      "label": 5,
+      "seed": 5048
+    },
+    {
+      "control_path": "artifacts/controls/train23264_class5.png",
+      "source_index": 23264,
+      "label": 5,
+      "seed": 5049
+    },
+    {
+      "control_path": "artifacts/controls/train25566_class5.png",
+      "source_index": 25566,
+      "label": 5,
+      "seed": 5050
+    },
+    {
+      "control_path": "artifacts/controls/train33690_class5.png",
+      "source_index": 33690,
+      "label": 5,
+      "seed": 5051
+    },
+    {
+      "control_path": "artifacts/controls/train35838_class5.png",
+      "source_index": 35838,
+      "label": 5,
+      "seed": 5052
+    },
+    {
+      "control_path": "artifacts/controls/train38134_class5.png",
+      "source_index": 38134,
+      "label": 5,
+      "seed": 5053
+    },
+    {
+      "control_path": "artifacts/controls/train39208_class5.png",
+      "source_index": 39208,
+      "label": 5,
+      "seed": 5054
+    },
+    {
+      "control_path": "artifacts/controls/train39280_class5.png",
+      "source_index": 39280,
+      "label": 5,
+      "seed": 5055
+    },
+    {
+      "control_path": "artifacts/controls/train39424_class5.png",
+      "source_index": 39424,
+      "label": 5,
+      "seed": 5056
+    },
+    {
+      "control_path": "artifacts/controls/train45602_class5.png",
+      "source_index": 45602,
+      "label": 5,
+      "seed": 5057
+    },
+    {
+      "control_path": "artifacts/controls/train48113_class5.png",
+      "source_index": 48113,
+      "label": 5,
+      "seed": 5058
+    },
+    {
+      "control_path": "artifacts/controls/train50786_class5.png",
+      "source_index": 50786,
+      "label": 5,
+      "seed": 5059
+    },
+    {
+      "control_path": "artifacts/controls/train57128_class5.png",
+      "source_index": 57128,
+      "label": 5,
+      "seed": 5060
+    },
+    {
+      "control_path": "artifacts/controls/train59160_class5.png",
+      "source_index": 59160,
+      "label": 5,
+      "seed": 5061
+    },
+    {
+      "control_path": "artifacts/controls/train03172_class6.png",
+      "source_index": 3172,
+      "label": 6,
+      "seed": 6042
+    },
+    {
+      "control_path": "artifacts/controls/train08898_class6.png",
+      "source_index": 8898,
+      "label": 6,
+      "seed": 6043
+    },
+    {
+      "control_path": "artifacts/controls/train13964_class6.png",
+      "source_index": 13964,
+      "label": 6,
+      "seed": 6044
+    },
+    {
+      "control_path": "artifacts/controls/train14265_class6.png",
+      "source_index": 14265,
+      "label": 6,
+      "seed": 6045
+    },
+    {
+      "control_path": "artifacts/controls/train14405_class6.png",
+      "source_index": 14405,
+      "label": 6,
+      "seed": 6046
+    },
+    {
+      "control_path": "artifacts/controls/train15797_class6.png",
+      "source_index": 15797,
+      "label": 6,
+      "seed": 6047
+    },
+    {
+      "control_path": "artifacts/controls/train22775_class6.png",
+      "source_index": 22775,
+      "label": 6,
+      "seed": 6048
+    },
+    {
+      "control_path": "artifacts/controls/train23453_class6.png",
+      "source_index": 23453,
+      "label": 6,
+      "seed": 6049
+    },
+    {
+      "control_path": "artifacts/controls/train27807_class6.png",
+      "source_index": 27807,
+      "label": 6,
+      "seed": 6050
+    },
+    {
+      "control_path": "artifacts/controls/train28027_class6.png",
+      "source_index": 28027,
+      "label": 6,
+      "seed": 6051
+    },
+    {
+      "control_path": "artifacts/controls/train29226_class6.png",
+      "source_index": 29226,
+      "label": 6,
+      "seed": 6052
+    },
+    {
+      "control_path": "artifacts/controls/train30063_class6.png",
+      "source_index": 30063,
+      "label": 6,
+      "seed": 6053
+    },
+    {
+      "control_path": "artifacts/controls/train37675_class6.png",
+      "source_index": 37675,
+      "label": 6,
+      "seed": 6054
+    },
+    {
+      "control_path": "artifacts/controls/train39650_class6.png",
+      "source_index": 39650,
+      "label": 6,
+      "seed": 6055
+    },
+    {
+      "control_path": "artifacts/controls/train40564_class6.png",
+      "source_index": 40564,
+      "label": 6,
+      "seed": 6056
+    },
+    {
+      "control_path": "artifacts/controls/train41272_class6.png",
+      "source_index": 41272,
+      "label": 6,
+      "seed": 6057
+    },
+    {
+      "control_path": "artifacts/controls/train42960_class6.png",
+      "source_index": 42960,
+      "label": 6,
+      "seed": 6058
+    },
+    {
+      "control_path": "artifacts/controls/train44315_class6.png",
+      "source_index": 44315,
+      "label": 6,
+      "seed": 6059
+    },
+    {
+      "control_path": "artifacts/controls/train53625_class6.png",
+      "source_index": 53625,
+      "label": 6,
+      "seed": 6060
+    },
+    {
+      "control_path": "artifacts/controls/train57777_class6.png",
+      "source_index": 57777,
+      "label": 6,
+      "seed": 6061
+    },
+    {
+      "control_path": "artifacts/controls/train09901_class7.png",
+      "source_index": 9901,
+      "label": 7,
+      "seed": 7042
+    },
+    {
+      "control_path": "artifacts/controls/train11937_class7.png",
+      "source_index": 11937,
+      "label": 7,
+      "seed": 7043
+    },
+    {
+      "control_path": "artifacts/controls/train12961_class7.png",
+      "source_index": 12961,
+      "label": 7,
+      "seed": 7044
+    },
+    {
+      "control_path": "artifacts/controls/train14556_class7.png",
+      "source_index": 14556,
+      "label": 7,
+      "seed": 7045
+    },
+    {
+      "control_path": "artifacts/controls/train14954_class7.png",
+      "source_index": 14954,
+      "label": 7,
+      "seed": 7046
+    },
+    {
+      "control_path": "artifacts/controls/train15340_class7.png",
+      "source_index": 15340,
+      "label": 7,
+      "seed": 7047
+    },
+    {
+      "control_path": "artifacts/controls/train16524_class7.png",
+      "source_index": 16524,
+      "label": 7,
+      "seed": 7048
+    },
+    {
+      "control_path": "artifacts/controls/train20061_class7.png",
+      "source_index": 20061,
+      "label": 7,
+      "seed": 7049
+    },
+    {
+      "control_path": "artifacts/controls/train23433_class7.png",
+      "source_index": 23433,
+      "label": 7,
+      "seed": 7050
+    },
+    {
+      "control_path": "artifacts/controls/train31362_class7.png",
+      "source_index": 31362,
+      "label": 7,
+      "seed": 7051
+    },
+    {
+      "control_path": "artifacts/controls/train31387_class7.png",
+      "source_index": 31387,
+      "label": 7,
+      "seed": 7052
+    },
+    {
+      "control_path": "artifacts/controls/train35150_class7.png",
+      "source_index": 35150,
+      "label": 7,
+      "seed": 7053
+    },
+    {
+      "control_path": "artifacts/controls/train45530_class7.png",
+      "source_index": 45530,
+      "label": 7,
+      "seed": 7054
+    },
+    {
+      "control_path": "artifacts/controls/train46737_class7.png",
+      "source_index": 46737,
+      "label": 7,
+      "seed": 7055
+    },
+    {
+      "control_path": "artifacts/controls/train48453_class7.png",
+      "source_index": 48453,
+      "label": 7,
+      "seed": 7056
+    },
+    {
+      "control_path": "artifacts/controls/train49372_class7.png",
+      "source_index": 49372,
+      "label": 7,
+      "seed": 7057
+    },
+    {
+      "control_path": "artifacts/controls/train54099_class7.png",
+      "source_index": 54099,
+      "label": 7,
+      "seed": 7058
+    },
+    {
+      "control_path": "artifacts/controls/train55266_class7.png",
+      "source_index": 55266,
+      "label": 7,
+      "seed": 7059
+    },
+    {
+      "control_path": "artifacts/controls/train57323_class7.png",
+      "source_index": 57323,
+      "label": 7,
+      "seed": 7060
+    },
+    {
+      "control_path": "artifacts/controls/train59360_class7.png",
+      "source_index": 59360,
+      "label": 7,
+      "seed": 7061
+    },
+    {
+      "control_path": "artifacts/controls/train00602_class8.png",
+      "source_index": 602,
+      "label": 8,
+      "seed": 8042
+    },
+    {
+      "control_path": "artifacts/controls/train04860_class8.png",
+      "source_index": 4860,
+      "label": 8,
+      "seed": 8043
+    },
+    {
+      "control_path": "artifacts/controls/train10694_class8.png",
+      "source_index": 10694,
+      "label": 8,
+      "seed": 8044
+    },
+    {
+      "control_path": "artifacts/controls/train11602_class8.png",
+      "source_index": 11602,
+      "label": 8,
+      "seed": 8045
+    },
+    {
+      "control_path": "artifacts/controls/train15623_class8.png",
+      "source_index": 15623,
+      "label": 8,
+      "seed": 8046
+    },
+    {
+      "control_path": "artifacts/controls/train16231_class8.png",
+      "source_index": 16231,
+      "label": 8,
+      "seed": 8047
+    },
+    {
+      "control_path": "artifacts/controls/train21118_class8.png",
+      "source_index": 21118,
+      "label": 8,
+      "seed": 8048
+    },
+    {
+      "control_path": "artifacts/controls/train23890_class8.png",
+      "source_index": 23890,
+      "label": 8,
+      "seed": 8049
+    },
+    {
+      "control_path": "artifacts/controls/train32607_class8.png",
+      "source_index": 32607,
+      "label": 8,
+      "seed": 8050
+    },
+    {
+      "control_path": "artifacts/controls/train36270_class8.png",
+      "source_index": 36270,
+      "label": 8,
+      "seed": 8051
+    },
+    {
+      "control_path": "artifacts/controls/train38832_class8.png",
+      "source_index": 38832,
+      "label": 8,
+      "seed": 8052
+    },
+    {
+      "control_path": "artifacts/controls/train39419_class8.png",
+      "source_index": 39419,
+      "label": 8,
+      "seed": 8053
+    },
+    {
+      "control_path": "artifacts/controls/train40403_class8.png",
+      "source_index": 40403,
+      "label": 8,
+      "seed": 8054
+    },
+    {
+      "control_path": "artifacts/controls/train40882_class8.png",
+      "source_index": 40882,
+      "label": 8,
+      "seed": 8055
+    },
+    {
+      "control_path": "artifacts/controls/train42979_class8.png",
+      "source_index": 42979,
+      "label": 8,
+      "seed": 8056
+    },
+    {
+      "control_path": "artifacts/controls/train50597_class8.png",
+      "source_index": 50597,
+      "label": 8,
+      "seed": 8057
+    },
+    {
+      "control_path": "artifacts/controls/train51670_class8.png",
+      "source_index": 51670,
+      "label": 8,
+      "seed": 8058
+    },
+    {
+      "control_path": "artifacts/controls/train57731_class8.png",
+      "source_index": 57731,
+      "label": 8,
+      "seed": 8059
+    },
+    {
+      "control_path": "artifacts/controls/train59581_class8.png",
+      "source_index": 59581,
+      "label": 8,
+      "seed": 8060
+    },
+    {
+      "control_path": "artifacts/controls/train59751_class8.png",
+      "source_index": 59751,
+      "label": 8,
+      "seed": 8061
+    },
+    {
+      "control_path": "artifacts/controls/train00631_class9.png",
+      "source_index": 631,
+      "label": 9,
+      "seed": 9042
+    },
+    {
+      "control_path": "artifacts/controls/train02798_class9.png",
+      "source_index": 2798,
+      "label": 9,
+      "seed": 9043
+    },
+    {
+      "control_path": "artifacts/controls/train04663_class9.png",
+      "source_index": 4663,
+      "label": 9,
+      "seed": 9044
+    },
+    {
+      "control_path": "artifacts/controls/train05817_class9.png",
+      "source_index": 5817,
+      "label": 9,
+      "seed": 9045
+    },
+    {
+      "control_path": "artifacts/controls/train07505_class9.png",
+      "source_index": 7505,
+      "label": 9,
+      "seed": 9046
+    },
+    {
+      "control_path": "artifacts/controls/train10387_class9.png",
+      "source_index": 10387,
+      "label": 9,
+      "seed": 9047
+    },
+    {
+      "control_path": "artifacts/controls/train16918_class9.png",
+      "source_index": 16918,
+      "label": 9,
+      "seed": 9048
+    },
+    {
+      "control_path": "artifacts/controls/train19178_class9.png",
+      "source_index": 19178,
+      "label": 9,
+      "seed": 9049
+    },
+    {
+      "control_path": "artifacts/controls/train19972_class9.png",
+      "source_index": 19972,
+      "label": 9,
+      "seed": 9050
+    },
+    {
+      "control_path": "artifacts/controls/train23016_class9.png",
+      "source_index": 23016,
+      "label": 9,
+      "seed": 9051
+    },
+    {
+      "control_path": "artifacts/controls/train26005_class9.png",
+      "source_index": 26005,
+      "label": 9,
+      "seed": 9052
+    },
+    {
+      "control_path": "artifacts/controls/train29874_class9.png",
+      "source_index": 29874,
+      "label": 9,
+      "seed": 9053
+    },
+    {
+      "control_path": "artifacts/controls/train30049_class9.png",
+      "source_index": 30049,
+      "label": 9,
+      "seed": 9054
+    },
+    {
+      "control_path": "artifacts/controls/train33948_class9.png",
+      "source_index": 33948,
+      "label": 9,
+      "seed": 9055
+    },
+    {
+      "control_path": "artifacts/controls/train35824_class9.png",
+      "source_index": 35824,
+      "label": 9,
+      "seed": 9056
+    },
+    {
+      "control_path": "artifacts/controls/train36507_class9.png",
+      "source_index": 36507,
+      "label": 9,
+      "seed": 9057
+    },
+    {
+      "control_path": "artifacts/controls/train40264_class9.png",
+      "source_index": 40264,
+      "label": 9,
+      "seed": 9058
+    },
+    {
+      "control_path": "artifacts/controls/train46773_class9.png",
+      "source_index": 46773,
+      "label": 9,
+      "seed": 9059
+    },
+    {
+      "control_path": "artifacts/controls/train47987_class9.png",
+      "source_index": 47987,
+      "label": 9,
+      "seed": 9060
+    },
+    {
+      "control_path": "artifacts/controls/train56859_class9.png",
+      "source_index": 56859,
+      "label": 9,
+      "seed": 9061
+    }
+  ]
+}
