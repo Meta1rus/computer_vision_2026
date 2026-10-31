@@ -1,0 +1,19 @@
+{
+  "detailed_captions": {
+    "clip_text_sim": 0.3541904091835022,
+    "subject_sim_to_train_centroid": 0.630346417427063,
+    "nearest_train_sim_mean": 0.6330562233924866,
+    "share_near_copy_gt_0.95": 0.0
+  },
+  "short_caption": {
+    "clip_text_sim": 0.3731025755405426,
+    "subject_sim_to_train_centroid": 0.6606966853141785,
+    "nearest_train_sim_mean": 0.6584170460700989,
+    "share_near_copy_gt_0.95": 0.0
+  },
+  "train": {
+    "updates": 400,
+    "seconds": 1090.9314889907837,
+    "final_loss50": 0.18774450472556053
+  }
+}
