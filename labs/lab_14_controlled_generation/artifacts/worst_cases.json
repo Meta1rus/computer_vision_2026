@@ -1,0 +1,47 @@
+[
+  {
+    "path": "artifacts/generations/cs0.6_cfg4.0/train13019_class2.png",
+    "control_path": "artifacts/controls/train13019_class2.png",
+    "label": 2,
+    "setting": "cs0.6_cfg4.0",
+    "edge_f1": 0.0,
+    "edge_f1_stretched": 0.0,
+    "clip_text_cos": 0.20033462345600128
+  },
+  {
+    "path": "artifacts/generations/cs1.2_cfg4.0/train06443_class1.png",
+    "control_path": "artifacts/controls/train06443_class1.png",
+    "label": 1,
+    "setting": "cs1.2_cfg4.0",
+    "edge_f1": 0.0,
+    "edge_f1_stretched": 0.0,
+    "clip_text_cos": 0.2025633007287979
+  },
+  {
+    "path": "artifacts/generations/cs0.6_cfg4.0/train06443_class1.png",
+    "control_path": "artifacts/controls/train06443_class1.png",
+    "label": 1,
+    "setting": "cs0.6_cfg4.0",
+    "edge_f1": 0.0,
+    "edge_f1_stretched": 0.0,
+    "clip_text_cos": 0.21765294671058655
+  },
+  {
+    "path": "artifacts/generations/cs0.6_cfg4.0/train32607_class8.png",
+    "control_path": "artifacts/controls/train32607_class8.png",
+    "label": 8,
+    "setting": "cs0.6_cfg4.0",
+    "edge_f1": 0.0,
+    "edge_f1_stretched": 0.0,
+    "clip_text_cos": 0.21773089468479156
+  },
+  {
+    "path": "artifacts/generations/cs1.2_cfg9.0/train01678_class0.png",
+    "control_path": "artifacts/controls/train01678_class0.png",
+    "label": 0,
+    "setting": "cs1.2_cfg9.0",
+    "edge_f1": 0.0,
+    "edge_f1_stretched": 0.0,
+    "clip_text_cos": 0.2219550460577011
+  }
+]
