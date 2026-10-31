@@ -1,0 +1,632 @@
+{
+ "item_000": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 0,
+  "seed": 1
+ },
+ "item_001": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 0,
+  "seed": 1
+ },
+ "item_002": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 2,
+  "seed": 2
+ },
+ "item_003": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 4,
+  "seed": 1
+ },
+ "item_004": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 1,
+  "seed": 1
+ },
+ "item_005": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 1,
+  "seed": 2
+ },
+ "item_006": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 4,
+  "seed": 1
+ },
+ "item_007": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 5,
+  "seed": 2
+ },
+ "item_008": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 3,
+  "seed": 0
+ },
+ "item_009": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 2,
+  "seed": 2
+ },
+ "item_010": {
+  "tag": "baseline",
+  "prompt_id": 1,
+  "seed": 1
+ },
+ "item_011": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 4,
+  "seed": 2
+ },
+ "item_012": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 0,
+  "seed": 0
+ },
+ "item_013": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 2,
+  "seed": 1
+ },
+ "item_014": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 2,
+  "seed": 0
+ },
+ "item_015": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 0,
+  "seed": 0
+ },
+ "item_016": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 0,
+  "seed": 1
+ },
+ "item_017": {
+  "tag": "baseline",
+  "prompt_id": 3,
+  "seed": 1
+ },
+ "item_018": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 0,
+  "seed": 1
+ },
+ "item_019": {
+  "tag": "baseline",
+  "prompt_id": 3,
+  "seed": 2
+ },
+ "item_020": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 3,
+  "seed": 0
+ },
+ "item_021": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 2,
+  "seed": 2
+ },
+ "item_022": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 1,
+  "seed": 1
+ },
+ "item_023": {
+  "tag": "baseline",
+  "prompt_id": 0,
+  "seed": 0
+ },
+ "item_024": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 0,
+  "seed": 2
+ },
+ "item_025": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 1,
+  "seed": 1
+ },
+ "item_026": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 4,
+  "seed": 2
+ },
+ "item_027": {
+  "tag": "baseline",
+  "prompt_id": 4,
+  "seed": 0
+ },
+ "item_028": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 0,
+  "seed": 2
+ },
+ "item_029": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 5,
+  "seed": 1
+ },
+ "item_030": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 3,
+  "seed": 0
+ },
+ "item_031": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 2,
+  "seed": 0
+ },
+ "item_032": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 3,
+  "seed": 2
+ },
+ "item_033": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 0,
+  "seed": 1
+ },
+ "item_034": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 5,
+  "seed": 0
+ },
+ "item_035": {
+  "tag": "baseline",
+  "prompt_id": 5,
+  "seed": 0
+ },
+ "item_036": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 2,
+  "seed": 0
+ },
+ "item_037": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 1,
+  "seed": 1
+ },
+ "item_038": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 2,
+  "seed": 0
+ },
+ "item_039": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 2,
+  "seed": 2
+ },
+ "item_040": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 2,
+  "seed": 1
+ },
+ "item_041": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 4,
+  "seed": 0
+ },
+ "item_042": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 3,
+  "seed": 2
+ },
+ "item_043": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 1,
+  "seed": 2
+ },
+ "item_044": {
+  "tag": "baseline",
+  "prompt_id": 3,
+  "seed": 0
+ },
+ "item_045": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 5,
+  "seed": 0
+ },
+ "item_046": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 3,
+  "seed": 1
+ },
+ "item_047": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 2,
+  "seed": 1
+ },
+ "item_048": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 1,
+  "seed": 2
+ },
+ "item_049": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 3,
+  "seed": 1
+ },
+ "item_050": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 2,
+  "seed": 2
+ },
+ "item_051": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 5,
+  "seed": 2
+ },
+ "item_052": {
+  "tag": "baseline",
+  "prompt_id": 1,
+  "seed": 2
+ },
+ "item_053": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 4,
+  "seed": 0
+ },
+ "item_054": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 4,
+  "seed": 0
+ },
+ "item_055": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 1,
+  "seed": 0
+ },
+ "item_056": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 4,
+  "seed": 1
+ },
+ "item_057": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 5,
+  "seed": 2
+ },
+ "item_058": {
+  "tag": "baseline",
+  "prompt_id": 5,
+  "seed": 1
+ },
+ "item_059": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 5,
+  "seed": 0
+ },
+ "item_060": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 5,
+  "seed": 1
+ },
+ "item_061": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 3,
+  "seed": 2
+ },
+ "item_062": {
+  "tag": "baseline",
+  "prompt_id": 2,
+  "seed": 1
+ },
+ "item_063": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 3,
+  "seed": 2
+ },
+ "item_064": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 2,
+  "seed": 1
+ },
+ "item_065": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 5,
+  "seed": 1
+ },
+ "item_066": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 3,
+  "seed": 2
+ },
+ "item_067": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 4,
+  "seed": 1
+ },
+ "item_068": {
+  "tag": "baseline",
+  "prompt_id": 2,
+  "seed": 2
+ },
+ "item_069": {
+  "tag": "baseline",
+  "prompt_id": 4,
+  "seed": 1
+ },
+ "item_070": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 1,
+  "seed": 0
+ },
+ "item_071": {
+  "tag": "baseline",
+  "prompt_id": 1,
+  "seed": 0
+ },
+ "item_072": {
+  "tag": "baseline",
+  "prompt_id": 5,
+  "seed": 2
+ },
+ "item_073": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 0,
+  "seed": 2
+ },
+ "item_074": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 0,
+  "seed": 0
+ },
+ "item_075": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 2,
+  "seed": 2
+ },
+ "item_076": {
+  "tag": "baseline",
+  "prompt_id": 2,
+  "seed": 0
+ },
+ "item_077": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 3,
+  "seed": 0
+ },
+ "item_078": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 0,
+  "seed": 0
+ },
+ "item_079": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 3,
+  "seed": 1
+ },
+ "item_080": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 0,
+  "seed": 0
+ },
+ "item_081": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 4,
+  "seed": 2
+ },
+ "item_082": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 4,
+  "seed": 0
+ },
+ "item_083": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 3,
+  "seed": 1
+ },
+ "item_084": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 4,
+  "seed": 1
+ },
+ "item_085": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 2,
+  "seed": 1
+ },
+ "item_086": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 4,
+  "seed": 2
+ },
+ "item_087": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 2,
+  "seed": 1
+ },
+ "item_088": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 1,
+  "seed": 0
+ },
+ "item_089": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 1,
+  "seed": 2
+ },
+ "item_090": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 1,
+  "seed": 1
+ },
+ "item_091": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 0,
+  "seed": 0
+ },
+ "item_092": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 4,
+  "seed": 0
+ },
+ "item_093": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 5,
+  "seed": 1
+ },
+ "item_094": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 5,
+  "seed": 2
+ },
+ "item_095": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 1,
+  "seed": 0
+ },
+ "item_096": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 1,
+  "seed": 0
+ },
+ "item_097": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 4,
+  "seed": 2
+ },
+ "item_098": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 3,
+  "seed": 1
+ },
+ "item_099": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 1,
+  "seed": 2
+ },
+ "item_100": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 3,
+  "seed": 0
+ },
+ "item_101": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 5,
+  "seed": 0
+ },
+ "item_102": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 0,
+  "seed": 1
+ },
+ "item_103": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 3,
+  "seed": 2
+ },
+ "item_104": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 1,
+  "seed": 1
+ },
+ "item_105": {
+  "tag": "baseline",
+  "prompt_id": 0,
+  "seed": 1
+ },
+ "item_106": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 5,
+  "seed": 1
+ },
+ "item_107": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 1,
+  "seed": 0
+ },
+ "item_108": {
+  "tag": "baseline",
+  "prompt_id": 0,
+  "seed": 2
+ },
+ "item_109": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 1,
+  "seed": 2
+ },
+ "item_110": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 4,
+  "seed": 1
+ },
+ "item_111": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 3,
+  "seed": 0
+ },
+ "item_112": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 5,
+  "seed": 0
+ },
+ "item_113": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 2,
+  "seed": 0
+ },
+ "item_114": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 0,
+  "seed": 2
+ },
+ "item_115": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 4,
+  "seed": 2
+ },
+ "item_116": {
+  "tag": "r16_lr1e-4@400",
+  "prompt_id": 3,
+  "seed": 1
+ },
+ "item_117": {
+  "tag": "r16_lr5e-4@400",
+  "prompt_id": 5,
+  "seed": 2
+ },
+ "item_118": {
+  "tag": "r4_lr1e-4@200",
+  "prompt_id": 0,
+  "seed": 2
+ },
+ "item_119": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 2,
+  "seed": 0
+ },
+ "item_120": {
+  "tag": "r16_lr1e-4@200",
+  "prompt_id": 5,
+  "seed": 2
+ },
+ "item_121": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 5,
+  "seed": 1
+ },
+ "item_122": {
+  "tag": "baseline",
+  "prompt_id": 4,
+  "seed": 2
+ },
+ "item_123": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 0,
+  "seed": 2
+ },
+ "item_124": {
+  "tag": "r4_lr1e-4@400",
+  "prompt_id": 5,
+  "seed": 0
+ },
+ "item_125": {
+  "tag": "r16_lr5e-4@200",
+  "prompt_id": 4,
+  "seed": 0
+ }
+}
