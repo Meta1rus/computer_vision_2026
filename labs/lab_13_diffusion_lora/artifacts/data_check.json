@@ -1,0 +1,315 @@
+{
+  "n_images": 28,
+  "source": "Wikimedia Commons, индивидуально проверенная CC0-1.0",
+  "min_side": 540,
+  "checks": [
+    {
+      "file": "commons_00.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        720
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_01.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        540
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_02.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        540
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_03.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        640
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_04.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        720
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_05.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        1171
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_06.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        1281
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_07.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        1200
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_08.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        720
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_09.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        720
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_10.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        720
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_11.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        640
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_12.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        1180
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_13.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        720
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_14.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        723
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_15.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        970
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_16.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        682
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_17.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        1280
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_18.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        960
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_19.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        640
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_20.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        720
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_21.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        960
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_22.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        640
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_23.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        769
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_24.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        1280
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_25.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        640
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_26.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        1280
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "commons_27.jpg",
+      "exists": true,
+      "rgb_decoded": true,
+      "size": [
+        960,
+        924
+      ],
+      "sha256_ok": true,
+      "license": "CC0-1.0"
+    }
+  ]
+}

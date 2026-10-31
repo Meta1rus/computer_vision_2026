@@ -1,0 +1,24 @@
+{
+  "prompts": [
+    "a photo of sks butterfly sitting on a sunflower",
+    "a photo of sks butterfly on a wet window in the rain",
+    "a watercolor painting of sks butterfly",
+    "a photo of sks butterfly on a city street at night",
+    "a macro photo of sks butterfly wings with water drops",
+    "a photo of sks butterfly in the snow"
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "clip_text": {
+    "a photo of sks butterfly sitting on a sunflower": "a photo of butterfly sitting on a sunflower",
+    "a photo of sks butterfly on a wet window in the rain": "a photo of butterfly on a wet window in the rain",
+    "a watercolor painting of sks butterfly": "a watercolor painting of butterfly",
+    "a photo of sks butterfly on a city street at night": "a photo of butterfly on a city street at night",
+    "a macro photo of sks butterfly wings with water drops": "a macro photo of butterfly wings with water drops",
+    "a photo of sks butterfly in the snow": "a photo of butterfly in the snow"
+  },
+  "overlap_with_train_captions": 0
+}

@@ -1,0 +1,136 @@
+{
+  "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+  "scheduler": "DPMSolverMultistep",
+  "steps": 25,
+  "guidance": 7.5,
+  "resolution": 512,
+  "seconds": 543.007630109787,
+  "images": [
+    {
+      "tag": "baseline",
+      "prompt_id": 0,
+      "prompt": "a photo of sks butterfly sitting on a sunflower",
+      "seed": 0,
+      "path": "artifacts/generations/baseline/p0_s0.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 0,
+      "prompt": "a photo of sks butterfly sitting on a sunflower",
+      "seed": 1,
+      "path": "artifacts/generations/baseline/p0_s1.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 0,
+      "prompt": "a photo of sks butterfly sitting on a sunflower",
+      "seed": 2,
+      "path": "artifacts/generations/baseline/p0_s2.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 1,
+      "prompt": "a photo of sks butterfly on a wet window in the rain",
+      "seed": 0,
+      "path": "artifacts/generations/baseline/p1_s0.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 1,
+      "prompt": "a photo of sks butterfly on a wet window in the rain",
+      "seed": 1,
+      "path": "artifacts/generations/baseline/p1_s1.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 1,
+      "prompt": "a photo of sks butterfly on a wet window in the rain",
+      "seed": 2,
+      "path": "artifacts/generations/baseline/p1_s2.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 2,
+      "prompt": "a watercolor painting of sks butterfly",
+      "seed": 0,
+      "path": "artifacts/generations/baseline/p2_s0.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 2,
+      "prompt": "a watercolor painting of sks butterfly",
+      "seed": 1,
+      "path": "artifacts/generations/baseline/p2_s1.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 2,
+      "prompt": "a watercolor painting of sks butterfly",
+      "seed": 2,
+      "path": "artifacts/generations/baseline/p2_s2.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 3,
+      "prompt": "a photo of sks butterfly on a city street at night",
+      "seed": 0,
+      "path": "artifacts/generations/baseline/p3_s0.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 3,
+      "prompt": "a photo of sks butterfly on a city street at night",
+      "seed": 1,
+      "path": "artifacts/generations/baseline/p3_s1.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 3,
+      "prompt": "a photo of sks butterfly on a city street at night",
+      "seed": 2,
+      "path": "artifacts/generations/baseline/p3_s2.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 4,
+      "prompt": "a macro photo of sks butterfly wings with water drops",
+      "seed": 0,
+      "path": "artifacts/generations/baseline/p4_s0.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 4,
+      "prompt": "a macro photo of sks butterfly wings with water drops",
+      "seed": 1,
+      "path": "artifacts/generations/baseline/p4_s1.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 4,
+      "prompt": "a macro photo of sks butterfly wings with water drops",
+      "seed": 2,
+      "path": "artifacts/generations/baseline/p4_s2.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 5,
+      "prompt": "a photo of sks butterfly in the snow",
+      "seed": 0,
+      "path": "artifacts/generations/baseline/p5_s0.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 5,
+      "prompt": "a photo of sks butterfly in the snow",
+      "seed": 1,
+      "path": "artifacts/generations/baseline/p5_s1.png"
+    },
+    {
+      "tag": "baseline",
+      "prompt_id": 5,
+      "prompt": "a photo of sks butterfly in the snow",
+      "seed": 2,
+      "path": "artifacts/generations/baseline/p5_s2.png"
+    }
+  ]
+}
