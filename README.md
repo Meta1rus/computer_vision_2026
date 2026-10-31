@@ -21,7 +21,7 @@
 | 10 | [Эффективный fine-tuning VLM с помощью Unsloth](labs/lab_10_unsloth_efficiency) | выполнена: Unsloth (MLX) в 4,8 раза быстрее LLaMA-Factory при том же качестве; rank 16 — ID 0,953 |
 | 11 | [Alignment VLM по предпочтениям](labs/lab_11_vlm_alignment) | выполнена: DPO поверх SFT — EM 0,906 (SFT 0,891), слепой win rate против SFT 0,51 |
 | 12 | [Генерация синтетического датасета для VLM](labs/lab_12_synthetic_vlm_data) | выполнена: VLM подтвердила 99 % синтетики, перенос счёта на реальные фото не обнаружен |
-| 13 | [Fine-tuning diffusion model](labs/lab_13_diffusion_lora) | шаблон |
+| 13 | [Fine-tuning diffusion model](labs/lab_13_diffusion_lora) | выполнена: LoRA r16 — сходство с train 0,602 → 0,659 без копирования, CLIP-текст 0,354 |
 | 14 | [Управляемая генерация изображений](labs/lab_14_controlled_generation) | шаблон |
 | 15 | [Flow matching и rectified flow](labs/lab_15_flow_matching) | шаблон |
 | 16 | [Визуальные токенизаторы и autoregressive generation](labs/lab_16_visual_tokenization) | шаблон |
