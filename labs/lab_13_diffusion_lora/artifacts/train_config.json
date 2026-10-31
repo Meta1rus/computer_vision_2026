@@ -1,0 +1,34 @@
+{
+  "configs": {
+    "r4_lr1e-4": {
+      "rank": 4,
+      "lr": 0.0001
+    },
+    "r16_lr1e-4": {
+      "rank": 16,
+      "lr": 0.0001
+    },
+    "r16_lr5e-4": {
+      "rank": 16,
+      "lr": 0.0005
+    }
+  },
+  "updates": 400,
+  "batch": 2,
+  "checkpoints": [
+    200,
+    400
+  ],
+  "optimizer": "AdamW(wd=1e-2)",
+  "lr_schedule": "constant, warmup 20",
+  "precision": "fp16 autocast, обучаемые LoRA-веса в fp32, GradScaler",
+  "gradient_checkpointing": true,
+  "attention": "SDPA (PyTorch)",
+  "noise_offset": 0.0,
+  "target_modules": [
+    "to_q",
+    "to_k",
+    "to_v",
+    "to_out.0"
+  ]
+}
