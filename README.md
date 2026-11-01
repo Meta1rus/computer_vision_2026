@@ -24,7 +24,7 @@
 | 13 | [Fine-tuning diffusion model](labs/lab_13_diffusion_lora) | выполнена: LoRA r16 — сходство с train 0,602 → 0,659 без копирования, CLIP-текст 0,354 |
 | 14 | [Управляемая генерация изображений](labs/lab_14_controlled_generation) | выполнена: ControlNet Canny — edge F1 0,10 → 0,78; синтетика без реальных данных 0,716 |
 | 15 | [Flow matching и rectified flow](labs/lab_15_flow_matching) | выполнена: угловое сопоставление выпрямляет траектории в 8,5 раз |
-| 16 | [Визуальные токенизаторы и autoregressive generation](labs/lab_16_visual_tokenization) | шаблон |
+| 16 | [Визуальные токенизаторы и autoregressive generation](labs/lab_16_visual_tokenization) | выполнена: VQ-VAE K=16/64, top-k даёт 0,778 согласования класса |
 | 17 | [Diffusion model с нуля и classifier-free guidance](labs/lab_17_ddpm_cfg) | шаблон |
 | 18 | [Быстрые samplers и distillation](labs/lab_18_fast_samplers_distillation) | шаблон |
 
