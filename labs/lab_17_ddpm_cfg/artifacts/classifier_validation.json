@@ -1,0 +1,6 @@
+{
+  "test_accuracy": 0.9750000238418579,
+  "n_test": 2000,
+  "split": "MNIST test[:2000]",
+  "epochs": 4
+}
