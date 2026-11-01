@@ -1,0 +1,48 @@
+{
+  "hypothesis": "logit-normal t улучшает качество при 1–8 шагах Эйлера",
+  "steps_budget": 3000,
+  "rows": {
+    "1": {
+      "uniform_sw2": 2.6259753704071045,
+      "logitnormal_sw2": 2.0665316581726074,
+      "uniform_in_mode": 0.0,
+      "logitnormal_in_mode": 0.0010000000474974513
+    },
+    "2": {
+      "uniform_sw2": 0.701949954032898,
+      "logitnormal_sw2": 0.4134731590747833,
+      "uniform_in_mode": 0.334199994802475,
+      "logitnormal_in_mode": 0.5875999927520752
+    },
+    "4": {
+      "uniform_sw2": 0.31240078806877136,
+      "logitnormal_sw2": 0.28167665004730225,
+      "uniform_in_mode": 0.7692000269889832,
+      "logitnormal_in_mode": 0.8327999711036682
+    },
+    "8": {
+      "uniform_sw2": 0.21695321798324585,
+      "logitnormal_sw2": 0.24957619607448578,
+      "uniform_in_mode": 0.8763999938964844,
+      "logitnormal_in_mode": 0.8960000276565552
+    },
+    "16": {
+      "uniform_sw2": 0.21812187135219574,
+      "logitnormal_sw2": 0.25908949971199036,
+      "uniform_in_mode": 0.9085999727249146,
+      "logitnormal_in_mode": 0.9279999732971191
+    },
+    "32": {
+      "uniform_sw2": 0.21187946200370789,
+      "logitnormal_sw2": 0.266774982213974,
+      "uniform_in_mode": 0.926800012588501,
+      "logitnormal_in_mode": 0.9441999793052673
+    },
+    "64": {
+      "uniform_sw2": 0.2045551836490631,
+      "logitnormal_sw2": 0.25867220759391785,
+      "uniform_in_mode": 0.9341999888420105,
+      "logitnormal_in_mode": 0.951200008392334
+    }
+  }
+}
