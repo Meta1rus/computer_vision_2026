@@ -1,0 +1,20 @@
+{
+  "K=16": {
+    "test_ce_nats_per_token": 1.2242628148915817,
+    "test_bits_per_image": 86.54565669765356,
+    "reconstruction_mse": 0.005783942993730307,
+    "agreement_T=1.0": 0.6919999718666077,
+    "diversity_T=1.0": 8.559158325195312,
+    "agreement_top-p=0.9": 0.7960000038146973,
+    "diversity_top-p=0.9": 8.071544313430786
+  },
+  "K=64": {
+    "test_ce_nats_per_token": 1.498151028380102,
+    "test_bits_per_image": 105.90737789818702,
+    "reconstruction_mse": 0.004994841758161783,
+    "agreement_T=1.0": 0.6600000262260437,
+    "diversity_T=1.0": 8.742185258865357,
+    "agreement_top-p=0.9": 0.7059999704360962,
+    "diversity_top-p=0.9": 8.274400186538696
+  }
+}
