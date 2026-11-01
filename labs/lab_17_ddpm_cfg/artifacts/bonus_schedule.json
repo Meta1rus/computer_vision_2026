@@ -1,0 +1,16 @@
+{
+  "linear": {
+    "class_agreement": 0.9950000047683716,
+    "mean_confidence": 0.9979866743087769,
+    "intra_class_l2_diversity": 16.050577259063722,
+    "final_train_loss": 0.02165134552679956,
+    "alpha_bar_at_T/2": 0.07779666036367416
+  },
+  "cosine": {
+    "class_agreement": 1.0,
+    "mean_confidence": 0.9995361566543579,
+    "intra_class_l2_diversity": 16.392346000671388,
+    "final_train_loss": 0.03746369569003582,
+    "alpha_bar_at_T/2": 0.4922851622104645
+  }
+}
