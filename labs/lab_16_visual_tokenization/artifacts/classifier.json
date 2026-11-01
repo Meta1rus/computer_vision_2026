@@ -1,0 +1,5 @@
+{
+  "test_accuracy_real": 0.9714999794960022,
+  "test_accuracy_on_K64_reconstructions": 0.965499997138977,
+  "n_test": 2000
+}

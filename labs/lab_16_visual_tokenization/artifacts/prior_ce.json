@@ -1,0 +1,8 @@
+{
+  "K": 64,
+  "test_ce_nats_per_token": 1.498151028380102,
+  "train2000_ce_nats_per_token": 1.4468019770408163,
+  "test_bits_per_image": 105.90737789818702,
+  "uniform_baseline_nats": 4.1588830833596715,
+  "steps": 1000
+}
