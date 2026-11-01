@@ -1,0 +1,114 @@
+{
+  "worst_reconstructions": [
+    {
+      "test_index": 1526,
+      "label": 0,
+      "mse": 0.019945379346609116
+    },
+    {
+      "test_index": 895,
+      "label": 0,
+      "mse": 0.01700388826429844
+    },
+    {
+      "test_index": 1969,
+      "label": 6,
+      "mse": 0.016979781910777092
+    },
+    {
+      "test_index": 1395,
+      "label": 2,
+      "mse": 0.01667316071689129
+    },
+    {
+      "test_index": 95,
+      "label": 4,
+      "mse": 0.014679685235023499
+    },
+    {
+      "test_index": 1044,
+      "label": 6,
+      "mse": 0.014353209175169468
+    }
+  ],
+  "T=1.0_wrong_class": 170,
+  "T=1.0_wrong_examples": [
+    {
+      "target": 0,
+      "classified_as": 8,
+      "confidence": 0.8693352341651917
+    },
+    {
+      "target": 0,
+      "classified_as": 9,
+      "confidence": 0.5372735857963562
+    },
+    {
+      "target": 0,
+      "classified_as": 6,
+      "confidence": 0.7049165964126587
+    },
+    {
+      "target": 0,
+      "classified_as": 8,
+      "confidence": 0.9936313033103943
+    },
+    {
+      "target": 0,
+      "classified_as": 2,
+      "confidence": 0.7232719659805298
+    },
+    {
+      "target": 0,
+      "classified_as": 6,
+      "confidence": 0.8085758090019226
+    },
+    {
+      "target": 0,
+      "classified_as": 8,
+      "confidence": 0.796093225479126
+    },
+    {
+      "target": 0,
+      "classified_as": 8,
+      "confidence": 0.7369313836097717
+    },
+    {
+      "target": 1,
+      "classified_as": 4,
+      "confidence": 0.761597216129303
+    },
+    {
+      "target": 1,
+      "classified_as": 6,
+      "confidence": 0.9323610663414001
+    }
+  ],
+  "most_repetitive": [
+    {
+      "target": 1,
+      "max_token_share": 0.5102040767669678,
+      "classified_as": 1
+    },
+    {
+      "target": 1,
+      "max_token_share": 0.4897959232330322,
+      "classified_as": 1
+    },
+    {
+      "target": 1,
+      "max_token_share": 0.4897959232330322,
+      "classified_as": 1
+    },
+    {
+      "target": 1,
+      "max_token_share": 0.4693877696990967,
+      "classified_as": 1
+    },
+    {
+      "target": 1,
+      "max_token_share": 0.4693877696990967,
+      "classified_as": 1
+    }
+  ]
+}

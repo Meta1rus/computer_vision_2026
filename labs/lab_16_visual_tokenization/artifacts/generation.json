@@ -1,0 +1,44 @@
+{
+  "per_class": 50,
+  "schemes": {
+    "T=1.0": {
+      "class_agreement": 0.6600000262260437,
+      "mean_confidence": 0.844896137714386,
+      "intra_class_l2_diversity": 8.742185258865357,
+      "unique_sequences": 1.0,
+      "max_token_share_mean": 0.2608162760734558,
+      "seconds": 1.0531740188598633
+    },
+    "T=0.7": {
+      "class_agreement": 0.7379999756813049,
+      "mean_confidence": 0.8813551664352417,
+      "intra_class_l2_diversity": 8.247874927520751,
+      "unique_sequences": 1.0,
+      "max_token_share_mean": 0.2810203731060028,
+      "seconds": 0.7213389873504639
+    },
+    "top-k=5": {
+      "class_agreement": 0.777999997138977,
+      "mean_confidence": 0.9025449156761169,
+      "intra_class_l2_diversity": 8.315702676773071,
+      "unique_sequences": 1.0,
+      "max_token_share_mean": 0.2659591734409332,
+      "seconds": 0.7252449989318848
+    },
+    "top-p=0.9": {
+      "class_agreement": 0.7059999704360962,
+      "mean_confidence": 0.8719470500946045,
+      "intra_class_l2_diversity": 8.274400186538696,
+      "unique_sequences": 1.0,
+      "max_token_share_mean": 0.27534693479537964,
+      "seconds": 0.7359409332275391
+    }
+  },
+  "test_tokens_decoded_reference": {
+    "class_agreement": 0.9779999852180481,
+    "mean_confidence": 0.9703921675682068,
+    "intra_class_l2_diversity": 8.349916076660156,
+    "unique_sequences": 1.0,
+    "max_token_share_mean": 0.2639999985694885
+  }
+}
