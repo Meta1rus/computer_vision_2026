@@ -1,0 +1,149 @@
+{
+  "flow_euler@1": {
+    "sampler": "flow_euler",
+    "steps": 1,
+    "nfe": 1,
+    "seconds": 0.00509190559387207,
+    "sliced_w2_to_test": 2.6259753704071045,
+    "in_mode_rate": 0.0,
+    "modes_covered": 0,
+    "mode_kl_to_uniform": 0.0
+  },
+  "flow_euler@2": {
+    "sampler": "flow_euler",
+    "steps": 2,
+    "nfe": 2,
+    "seconds": 0.00608515739440918,
+    "sliced_w2_to_test": 0.701949954032898,
+    "in_mode_rate": 0.334199994802475,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.005010286346077919
+  },
+  "flow_euler@4": {
+    "sampler": "flow_euler",
+    "steps": 4,
+    "nfe": 4,
+    "seconds": 0.011594057083129883,
+    "sliced_w2_to_test": 0.31240078806877136,
+    "in_mode_rate": 0.7692000269889832,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.00426264526322484
+  },
+  "flow_euler@8": {
+    "sampler": "flow_euler",
+    "steps": 8,
+    "nfe": 8,
+    "seconds": 0.024080991744995117,
+    "sliced_w2_to_test": 0.21695321798324585,
+    "in_mode_rate": 0.8763999938964844,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.004124749451875687
+  },
+  "flow_euler@16": {
+    "sampler": "flow_euler",
+    "steps": 16,
+    "nfe": 16,
+    "seconds": 0.049756765365600586,
+    "sliced_w2_to_test": 0.21812187135219574,
+    "in_mode_rate": 0.9085999727249146,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.0037377497646957636
+  },
+  "flow_euler@32": {
+    "sampler": "flow_euler",
+    "steps": 32,
+    "nfe": 32,
+    "seconds": 0.09574294090270996,
+    "sliced_w2_to_test": 0.21187946200370789,
+    "in_mode_rate": 0.926800012588501,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.003187782596796751
+  },
+  "flow_euler@64": {
+    "sampler": "flow_euler",
+    "steps": 64,
+    "nfe": 64,
+    "seconds": 0.19438695907592773,
+    "sliced_w2_to_test": 0.2045551836490631,
+    "in_mode_rate": 0.9341999888420105,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.0027581709437072277
+  },
+  "vp_ddim@1": {
+    "sampler": "vp_ddim",
+    "steps": 1,
+    "nfe": 1,
+    "seconds": 0.0033059120178222656,
+    "sliced_w2_to_test": 1.6404353380203247,
+    "in_mode_rate": 0.007199999876320362,
+    "modes_covered": 0,
+    "mode_kl_to_uniform": 1.7926056385040283
+  },
+  "vp_ddim@2": {
+    "sampler": "vp_ddim",
+    "steps": 2,
+    "nfe": 2,
+    "seconds": 0.006904125213623047,
+    "sliced_w2_to_test": 0.4960018992424011,
+    "in_mode_rate": 0.6674000024795532,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.0205637589097023
+  },
+  "vp_ddim@4": {
+    "sampler": "vp_ddim",
+    "steps": 4,
+    "nfe": 4,
+    "seconds": 0.013622045516967773,
+    "sliced_w2_to_test": 0.3147530257701874,
+    "in_mode_rate": 0.881600022315979,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.007966754958033562
+  },
+  "vp_ddim@8": {
+    "sampler": "vp_ddim",
+    "steps": 8,
+    "nfe": 8,
+    "seconds": 0.025716066360473633,
+    "sliced_w2_to_test": 0.2521432638168335,
+    "in_mode_rate": 0.9350000023841858,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.004794757813215256
+  },
+  "vp_ddim@16": {
+    "sampler": "vp_ddim",
+    "steps": 16,
+    "nfe": 16,
+    "seconds": 0.05594277381896973,
+    "sliced_w2_to_test": 0.2509456276893616,
+    "in_mode_rate": 0.9509999752044678,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.004237491637468338
+  },
+  "vp_ddim@32": {
+    "sampler": "vp_ddim",
+    "steps": 32,
+    "nfe": 32,
+    "seconds": 0.1084909439086914,
+    "sliced_w2_to_test": 0.24997884035110474,
+    "in_mode_rate": 0.9545999765396118,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.004587596282362938
+  },
+  "vp_ddim@64": {
+    "sampler": "vp_ddim",
+    "steps": 64,
+    "nfe": 64,
+    "seconds": 0.21210098266601562,
+    "sliced_w2_to_test": 0.2546233832836151,
+    "in_mode_rate": 0.9574000239372253,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.004478005692362785
+  },
+  "test_reference": {
+    "sampler": "test vs fresh sample",
+    "sliced_w2_to_test": 0.09070798754692078,
+    "in_mode_rate": 0.9879999756813049,
+    "modes_covered": 8,
+    "mode_kl_to_uniform": 0.0004126476123929024
+  }
+}
