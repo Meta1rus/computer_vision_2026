@@ -1,0 +1,17 @@
+{
+  "grid_10": [
+    999,
+    888,
+    777,
+    666,
+    555,
+    444,
+    333,
+    222,
+    111,
+    0
+  ],
+  "final_transition": "0 → −1 (ᾱ=1, x = x̂0)",
+  "repeat_max_abs_diff": 0.0,
+  "strictly_decreasing": true
+}
