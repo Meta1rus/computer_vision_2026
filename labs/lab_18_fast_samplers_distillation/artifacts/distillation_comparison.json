@@ -1,0 +1,44 @@
+{
+  "teacher_ddim_20": {
+    "nfe_cond": 20,
+    "nfe_uncond": 20,
+    "nfe_total": 40,
+    "seconds": 1.0355720520019531,
+    "class_agreement": 1.0,
+    "mean_confidence": 0.9996005296707153,
+    "intra_class_l2_diversity": 16.26937952041626
+  },
+  "teacher_ddim_10": {
+    "nfe_cond": 10,
+    "nfe_uncond": 10,
+    "nfe_total": 20,
+    "seconds": 0.5208621025085449,
+    "class_agreement": 1.0,
+    "mean_confidence": 0.999634861946106,
+    "intra_class_l2_diversity": 15.510294914245605
+  },
+  "teacher_ddim_5": {
+    "nfe_cond": 5,
+    "nfe_uncond": 5,
+    "nfe_total": 10,
+    "seconds": 0.26050710678100586,
+    "class_agreement": 1.0,
+    "mean_confidence": 0.9989802837371826,
+    "intra_class_l2_diversity": 13.655868244171142
+  },
+  "student_10": {
+    "nfe_cond": 10,
+    "nfe_uncond": 0,
+    "nfe_total": 10,
+    "seconds": 0.28139185905456543,
+    "class_agreement": 1.0,
+    "mean_confidence": 0.9990114569664001,
+    "intra_class_l2_diversity": 16.096229553222656
+  },
+  "distillation": {
+    "steps": 3000,
+    "final_loss": 0.0006180622175997997,
+    "lr": 5e-05,
+    "batch": 64
+  }
+}
