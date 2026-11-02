@@ -1,0 +1,8 @@
+{
+  "guidance": 3.0,
+  "per_class": 20,
+  "noise_seed": 59,
+  "n_images": 200,
+  "classifier_test_accuracy": 0.9750000238418579,
+  "classifier_source": "lab 17 classifier.pt"
+}

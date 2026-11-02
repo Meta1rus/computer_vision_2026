@@ -1,0 +1,8 @@
+{
+  "checkpoint": "../lab_17_ddpm_cfg/artifacts/ddpm.pt",
+  "train_steps": 10000,
+  "T": 1000,
+  "schedule": "linear",
+  "weights": "EMA",
+  "classifier_test_accuracy_lab17": 0.9750000238418579
+}
